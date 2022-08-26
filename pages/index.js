@@ -2,7 +2,9 @@ import Head from 'next/head'
 import Image from 'next/image'
 import styles from '../styles/Home.module.css'
 
-export default function Home() {
+
+export default function Home(props) {
+  const podcasts = props.podcasts;
   return (
     <div className={styles.container}>
       <Head>
@@ -21,33 +23,11 @@ export default function Home() {
         </p>
 
         <div className={styles.grid}>
-          <a href="https://nextjs.org/docs" className={styles.card}>
-            <h2>Documentation &rarr;</h2>
-            <p>Find in-depth information about Next.js features and API.</p>
-          </a>
-
-          <a href="https://nextjs.org/learn" className={styles.card}>
-            <h2>Learn &rarr;</h2>
-            <p>Learn about Next.js in an interactive course with quizzes!</p>
-          </a>
-
-          <a
-            href="https://github.com/vercel/next.js/tree/canary/examples"
-            className={styles.card}
-          >
-            <h2>Examples &rarr;</h2>
-            <p>Discover and deploy boilerplate example Next.js projects.</p>
-          </a>
-
-          <a
-            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
-            className={styles.card}
-          >
-            <h2>Deploy &rarr;</h2>
-            <p>
-              Instantly deploy your Next.js site to a public URL with Vercel.
-            </p>
-          </a>
+          {podcasts.map(podcast =>
+            <a key={podcast.name} href={podcast.url} className={styles.card}>
+              <h2>{podcast.name}</h2>
+              <p>Lorem ipsum dolor my teeth.</p>
+            </a>)}
         </div>
       </main>
 
@@ -58,4 +38,16 @@ export default function Home() {
       </footer>
     </div>
   )
+}
+
+import { promises as fs } from 'fs'
+import path from 'path'
+const TOML = require('@iarna/toml')
+
+export async function getStaticProps() {
+  const libraryPath = path.join(process.cwd(), 'data/library.toml');
+  const tomlData = await fs.readFile(libraryPath);
+  const library = TOML.parse(tomlData);
+
+  return { props : library }
 }
