@@ -16,7 +16,7 @@ url = "https://feeds.npr.org/510289/podcast.xml"
 
 [[podcasts]]
 name = "Math Mutation"
-url = "http://www.erikseligman.com/mm/MM_RSS_feed.xml"
+url = "https://www.erikseligman.com/mm/MM_RSS_feed.xml"
 
 [[podcasts]]
 name = "99% Invisible"
@@ -32,7 +32,11 @@ url = "https://feeds.megaphone.fm/VMP6255701211"
 
 [[podcasts]]
 name = "Song Exploder"
-url = "http://feed.songexploder.net/songexploder"
+url = "https://feed.songexploder.net/songexploder"
+
+[[podcasts]]
+name = "Canción Exploder"
+url = "https://feed.songexploder.net/cancionexploder"
 
 [[podcasts]]
 name = "Reply All"
@@ -56,7 +60,7 @@ url = "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5
 
 [[podcasts]]
 name = "TLDR"
-url = "http://feeds.wnyc.org/otm_tldr"
+url = "https://feeds.wnyc.org/otm_tldr"
 
 [[podcasts]]
 name = "5-4"
@@ -64,11 +68,11 @@ url = "https://feeds.acast.com/public/shows/5fc574d8d429ec34a8292b1c"
 
 [[podcasts]]
 name = "The Memory Palace"
-url = "http://feeds.thememorypalace.us/thememorypalace"
+url = "https://feeds.thememorypalace.us/thememorypalace"
 
 [[podcasts]]
 name = "Vimcasts"
-url = "http://vimcasts.org/feeds/itunes.xml"
+url = "https://vimcasts.org/feeds/itunes.xml"
 
 [[podcasts]]
 name = "Perpetual Chess Podcast"
@@ -84,7 +88,7 @@ url = "https://feeds.fireside.fm/giantrobots/rss"
 
 [[podcasts]]
 name = "The History of Rome"
-url = "http://feeds.feedburner.com/TheHistoryOfRome"
+url = "https://feeds.feedburner.com/TheHistoryOfRome"
 
 [[podcasts]]
 name = "Omega Tau"
@@ -96,7 +100,7 @@ url = "https://feeds.acast.com/public/shows/9b41cd90-c759-4ccb-98b1-16a633915c57
 
 [[podcasts]]
 name = "You Made It Weird with Pete Holmes"
-url = "http://feeds.feedburner.com/YouMadeItWeird"
+url = "https://feeds.feedburner.com/YouMadeItWeird"
 
 [[podcasts]]
 name = "ערבית מדוברת עלא עיני ועלא ראסי"
@@ -144,7 +148,7 @@ url = "https://feed.theskepticsguide.org/feed/rss.aspx?feed=sgu"
 
 [[podcasts]]
 name = "Radiolab"
-url = "http://feeds.wnyc.org/radiolab"
+url = "https://feeds.wnyc.org/radiolab"
 
 [[podcasts]]
 name = "Desert Island Discs"
@@ -168,11 +172,11 @@ url = "https://www.ivoox.com/aprende-italiano-poco-a-poco-piano-piano_fg_f163377
 
 [[podcasts]]
 name = "The Truth"
-url = "http://feeds.feedburner.com/thetruthapm"
+url = "https://feeds.feedburner.com/thetruthapm"
 
 [[podcasts]]
 name = "Infinite Guest Everything Feed"
-url = "http://feeds.feedburner.com/InfiniteGuest"
+url = "https://feeds.feedburner.com/InfiniteGuest"
 
 [[podcasts]]
 name = "Cualquier tiempo pasado fue anterior"
@@ -204,11 +208,11 @@ url = "https://podcasts.files.bbci.co.uk/p02p70vc.rss"
 
 [[podcasts]]
 name = "Dan Carlin's Hardcore History"
-url = "http://feeds.feedburner.com/dancarlin/history?format=xml"
+url = "https://feeds.feedburner.com/dancarlin/history?format=xml"
 
 [[podcasts]]
 name = "CFR Events Audio"
-url = "http://feeds.cfr.org/publication/twnw"
+url = "https://feeds.cfr.org/publication/twnw"
 
 [[podcasts]]
 name = "Invisibilia"
@@ -220,7 +224,7 @@ url = "https://www.spreaker.com/show/5545277/episodes/feed"
 
 [[podcasts]]
 name = "Easy Japanese: Grammar Lessons | NHK WORLD-JAPAN"
-url = "http://www.nhk.or.jp/lesson/common/rss/podcast/english.xml"
+url = "https://www.nhk.or.jp/lesson/common/rss/podcast/english.xml"
 
 [[podcasts]]
 name = "The Indicator from Planet Money"
@@ -240,11 +244,11 @@ url = "https://rss.art19.com/the-problem-with-jon-stewart"
 
 [[podcasts]]
 name = "Theoretically Speaking"
-url = "http://feeds.feedburner.com/TheoreticallySpeakingCJSW"
+url = "https://feeds.feedburner.com/TheoreticallySpeakingCJSW"
 
 [[podcasts]]
 name = "Making Sense with Sam Harris"
-url = "http://wakingup.libsyn.com/rss"
+url = "https://wakingup.libsyn.com/rss"
 
 [[podcasts]]
 name = "50 Things That Made the Modern Economy"
@@ -260,11 +264,11 @@ url = "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5
 
 [[podcasts]]
 name = "Aquí hay dragones"
-url = "http://fapi-top.prisasd.com/podcast/podium/aqui_hay_dragones/itunestfp/podcast.xml"
+url = "https://fapi-top.prisasd.com/podcast/podium/aqui_hay_dragones/itunestfp/podcast.xml"
 
 [[podcasts]]
 name = "Undiscovered"
-url = "http://feeds.feedburner.com/pri/undiscovered"
+url = "https://feeds.feedburner.com/pri/undiscovered"
 
 [[podcasts]]
 name = "Cooking Issues"
@@ -276,7 +280,7 @@ url = "https://anchor.fm/s/636b4820/podcast/rss"
 
 [[podcasts]]
 name = "This American Life"
-url = "http://feed.thisamericanlife.org/talpodcast"
+url = "https://feed.thisamericanlife.org/talpodcast"
 
 [[podcasts]]
 name = "Software Engineering Radio"
@@ -288,7 +292,7 @@ url = "https://italianoautomatico.podomatic.com/rss2.xml"
 
 [[podcasts]]
 name = "Relatively Prime: Stories from the Mathematical Domain"
-url = "http://feeds.feedburner.com/relprime"
+url = "https://feeds.feedburner.com/relprime"
 
 [[podcasts]]
 name = "EconTalk"
