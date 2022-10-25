@@ -2,37 +2,322 @@
 name = "Freakonomics"
 url = "https://feeds.simplecast.com/Y8lFbOT4"
 
+    [[podcasts.starred]]
+    name = "506. What Is Sportswashing (and Does It Work)?"
+
+    [[podcasts.starred]]
+    name = "How to Change Your Mind (Ep. 379 Update)"
+
+    [[podcasts.starred]]
+    name = "495. Why Are There So Many Bad Bosses?"
+
+    [[podcasts.starred]]
+    name = "494. Why Do Most Ideas Fail to Scale?"
+
+    [[podcasts.starred]]
+    name = "That's a Great Question (Ep. 192 Rebroadcast)"
+
+    [[podcasts.starred]]
+    name = "454. Should Traffic Lights Be Abolished?"
+
+    [[podcasts.starred]]
+    name = "450. How to Be Better at Death"
+
+    [[podcasts.starred]]
+    name = "Why Does Tipping Still Exist?"
+
+    [[podcasts.starred]]
+    name = "Pick of the Week: What Does a C.E.O. Actually Do (Ep. 314)"
+
+    [[podcasts.starred]]
+    name = "How Stupid is Our Obsession With Lawns?"
+
+    [[podcasts.starred]]
+    name = "Here's Why All Your Projects Are Always Late – and What to Do About It"
+
+    [[podcasts.starred]]
+    name = "Does Early Education Come Way Too Late?"
+
+    [[podcasts.starred]]
+    name = "What Can Uber Teach Us About the Gender Pay Gap?"
+
+    [[podcasts.starred]]
+    name = "Evolution Accelerated"
+
+    [[podcasts.starred]]
+    name = "How to Become Great at Just About Anything"
+
+    [[podcasts.starred]]
+    name = "How to Make a Bad Decision"
+
+    [[podcasts.starred]]
+    name = "Why Doesn't Everyone Get the Flu Vaccine?"
+
+    [[podcasts.starred]]
+    name = "How Can Tiny Norway Afford to Buy So Many Teslas?"
+
+    [[podcasts.starred]]
+    name = "Fixing the World, Bang-for-the-Buck Edition"
+
 [[podcasts]]
 name = "My Favorite Theorem"
 url = "https://kpknudson.com/my-favorite-theorem?format=rss"
+
+    [[podcasts.starred]]
+    name = "Episode 62 - Tai-Danae Bradley"
+
+    [[podcasts.starred]]
+    name = "Episode 54 - Steve Strogatz"
+
+    [[podcasts.starred]]
+    name = "Episode 44 - James Propp"
+
+    [[podcasts.starred]]
+    name = "Episode 42 - Moon Duchin"
+
+    [[podcasts.starred]]
+    name = "Episode 38 - Robert Ghrist"
+
+    [[podcasts.starred]]
+    name = "Episode 27 - James Tanton"
+
+    [[podcasts.starred]]
+    name = "Episode 24 - Vidit Nanda"
+
+    [[podcasts.starred]]
+    name = "Episode 15 - Federico Ardila"
+
+    [[podcasts.starred]]
+    name = "Episode 12 - Candice Price"
+
+    [[podcasts.starred]]
+    name = "Episode 11 - Jeanne Nielsen Clelland"
+
+    [[podcasts.starred]]
+    name = "Episode 10 - Mohamed Omar"
+
+    [[podcasts.starred]]
+    name = "Episode 1 - Amie Wilkinson"
 
 [[podcasts]]
 name = "Freakonomics, M.D."
 url = "https://feeds.simplecast.com/Bx9_hnJH"
 
+    [[podcasts.starred]]
+    name = "46. Could Long Covid Help Treat Other Chronic Illnesses?"
+
+    [[podcasts.starred]]
+    name = "42. Your Doctor Has to Go Home, Now What?"
+
+    [[podcasts.starred]]
+    name = "36. Bad News – It's Your Surgeon's Birthday"
+
+    [[podcasts.starred]]
+    name = "35. Are More Expensive Hospitals Better?"
+
+    [[podcasts.starred]]
+    name = "28. Is Daylight Savings Time Hazardous to Your Health?"
+
+    [[podcasts.starred]]
+    name = "27. What Can Bin Laden Teach Us About Medicine?"
+
+    [[podcasts.starred]]
+    name = "25. Would You Rather See a Computer or a Doctor?"
+
+    [[podcasts.starred]]
+    name = "24. How Can You Choose the Best Doctor?"
+
+    [[podcasts.starred]]
+    name = "23. Is the Placebo Effect for Real?"
+
+    [[podcasts.starred]]
+    name = "19. Do Your Doctor's Political Views Affect Your Care?"
+
+    [[podcasts.starred]]
+    name = "15. The Most \"Unique, Excellent and Promising\" Episode"
+
+    [[podcasts.starred]]
+    name = "11. Why Do So Many Donated Kidneys End Up in the Trash?"
+
+    [[podcasts.starred]]
+    name = "9. Why Fridays May Be Dangerous for Your Health"
+
+    [[podcasts.starred]]
+    name = "2. Do As Docs Say, Not As They Do"
+
 [[podcasts]]
 name = "Planet Money"
 url = "https://feeds.npr.org/510289/podcast.xml"
+
+    [[podcasts.starred]]
+    name = "The tale of the Onion King (Update)"
+
+    [[podcasts.starred]]
+    name = "Peanuts and Cracker Jack (Classic)"
+
+    [[podcasts.starred]]
+    name = "SUMMER SCHOOL 1: The Stock Market & Penelope The Cow"
+
+    [[podcasts.starred]]
+    name = "How Desi Invented Television"
+
+    [[podcasts.starred]]
+    name = "Ungerrymandering Florida"
+
+    [[podcasts.starred]]
+    name = "Planet Monet"
+
+    [[podcasts.starred]]
+    name = "P is for Phosphorus"
+
+    [[podcasts.starred]]
+    name = "#784: Meeting The Russians"
+
+    [[podcasts.starred]]
+    name = "#677: The Experiment Experiment"
+
+    [[podcasts.starred]]
+    name = "10 11 51 52 62 18"
+
+    [[podcasts.starred]]
+    name = "#647: Hard Work Is Irrelevant"
+
+    [[podcasts.starred]]
+    name = "#399: Can You Patent A Steak?"
+
+    [[podcasts.starred]]
+    name = "#361: The Matzo Economy"
+
+    [[podcasts.starred]]
+    name = "#271: A City On The Moon"
+
+    [[podcasts.starred]]
+    name = "#539: What's A Penny Worth?"
+
+    [[podcasts.starred]]
+    name = "#443: Don't Believe the Hype"
 
 [[podcasts]]
 name = "Math Mutation"
 url = "https://www.erikseligman.com/mm/MM_RSS_feed.xml"
 
+    [[podcasts.starred]]
+    name = "Math Mutation 230: Just Say The Dog Ate It"
+
+    [[podcasts.starred]]
+    name = "Math Mutation 201 A Heap of Seagulls"
+
+    [[podcasts.starred]]
+    name = "Math Mutation 197 Four Dimensional Greek Warships"
+
+    [[podcasts.starred]]
+    name = "Math Mutation 176 Perfect Maps"
+
+    [[podcasts.starred]]
+    name = "Math Mutation 160 The Boids and Bees of Leadership"
+
+    [[podcasts.starred]]
+    name = "Math Mutation 76 Grue and Bleen"
+
+    [[podcasts.starred]]
+    name = "Math Mutation 52 Sparklines"
+
+    [[podcasts.starred]]
+    name = "Math Mutation 16 Doodling"
+
+    [[podcasts.starred]]
+    name = "Math Mutation 15 A Pretty Big Library"
+
 [[podcasts]]
 name = "99% Invisible"
 url = "https://feeds.simplecast.com/BqbsxVfO"
+
+    [[podcasts.starred]]
+    name = "485- Murder Most Fowl"
+
+    [[podcasts.starred]]
+    name = "483- Grid Locked"
+
+    [[podcasts.starred]]
+    name = "428- Beneath the Skyway"
+
+    [[podcasts.starred]]
+    name = "347- The Many Deaths of a Painting"
+
+    [[podcasts.starred]]
+    name = "229- The Trend Forecast"
+
+    [[podcasts.starred]]
+    name = "198- The Ice King"
+
+    [[podcasts.starred]]
+    name = "195- Best Enjoyed By"
+
+    [[podcasts.starred]]
+    name = "160- Perfect Security"
+
+    [[podcasts.starred]]
+    name = "147- Penn Station Sucks"
+
+    [[podcasts.starred]]
+    name = "136- Lights Out"
+
+    [[podcasts.starred]]
+    name = "134- The Straight Line Is A Godless Line"
 
 [[podcasts]]
 name = "Criminal"
 url = "https://feeds.megaphone.fm/VMP7924981569"
 
+    [[podcasts.starred]]
+    name = "Episode 65: The Kingfish"
+
+    [[podcasts.starred]]
+    name = "Episode 61: Vanish"
+
+    [[podcasts.starred]]
+    name = "Episode 47: Brownie Lady"
+
+    [[podcasts.starred]]
+    name = "Episode 45: Just Mercy"
+
+    [[podcasts.starred]]
+    name = "Episode 42: The Finger"
+
+    [[podcasts.starred]]
+    name = "Episode 40: Pappy"
+
+    [[podcasts.starred]]
+    name = "Episode 15: He's Neutral"
+
 [[podcasts]]
 name = "Gastropod"
 url = "https://feeds.megaphone.fm/VMP6255701211"
 
+    [[podcasts.starred]]
+    name = "How Ketchup Got Thick"
+
+    [[podcasts.starred]]
+    name = "Delivery Wars"
+
+    [[podcasts.starred]]
+    name = "The Milk of Life"
+
+    [[podcasts.starred]]
+    name = "Keeping Kosher: When Jewish Law Met Processed Food"
+
+    [[podcasts.starred]]
+    name = "Who Invented the Cherry Tomato?"
+
 [[podcasts]]
 name = "Song Exploder"
 url = "https://feed.songexploder.net/songexploder"
+
+    [[podcasts.starred]]
+    name = "Unknown Mortal Orchestra - Multi-Love"
+
+    [[podcasts.starred]]
+    name = "Spoon - Inside Out"
 
 [[podcasts]]
 name = "Canción Exploder"
@@ -42,13 +327,61 @@ url = "https://feed.songexploder.net/cancionexploder"
 name = "Reply All"
 url = "https://feeds.megaphone.fm/replyall"
 
+    [[podcasts.starred]]
+    name = "#188 Into the Depths"
+
+    [[podcasts.starred]]
+    name = "#187 Flying the Coop"
+
+    [[podcasts.starred]]
+    name = "#186 The Contact List"
+
+    [[podcasts.starred]]
+    name = "#143 Permanent Record"
+
+    [[podcasts.starred]]
+    name = "#50 The Cathedral"
+
+    [[podcasts.starred]]
+    name = "#23 Exit & Return, Part I"
+
 [[podcasts]]
 name = "Trail of Bits"
 url = "https://feeds.simplecast.com/oM_1xVen"
 
+    [[podcasts.starred]]
+    name = "Zero Knowledge Proofs and ZKDocs"
+
 [[podcasts]]
 name = "Arming the Donkeys"
 url = "https://itunesu.itunes.apple.com/feed/id420535283"
+
+    [[podcasts.starred]]
+    name = "Imaginary Memories"
+
+    [[podcasts.starred]]
+    name = "The Search for Psychopaths"
+
+    [[podcasts.starred]]
+    name = "Who's to Blame?"
+
+    [[podcasts.starred]]
+    name = "Can Money Buy Happiness?"
+
+    [[podcasts.starred]]
+    name = "Cultures of Corruption"
+
+    [[podcasts.starred]]
+    name = "Pushing the Envelope"
+
+    [[podcasts.starred]]
+    name = "The \"Yes...Damn!\" Effect"
+
+    [[podcasts.starred]]
+    name = "Can Cheaters Beat the Market?"
+
+    [[podcasts.starred]]
+    name = "Are Apple Users More Creative?"
 
 [[podcasts]]
 name = "Tidbits of Research"
@@ -58,25 +391,64 @@ url = "https://feed.podbean.com/tidbitsofresearch/feed.xml"
 name = "Behind the Bastards"
 url = "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/e5f91208-cc7e-4726-a312-ae280140ad11/d64f756d-6d5e-4fae-b24f-ae280140ad36/podcast.rss"
 
+    [[podcasts.starred]]
+    name = "Part One: The Man Who Ruined New York"
+
+    [[podcasts.starred]]
+    name = "Part Two: Dr. Oz: Why 'America's Doctor' Is A Bastard"
+
 [[podcasts]]
 name = "TLDR"
 url = "https://feeds.wnyc.org/otm_tldr"
+
+    [[podcasts.starred]]
+    name = "#28 - No Trail"
+
+    [[podcasts.starred]]
+    name = "#22 - What Happens When You Tell The Whole Internet Your Password"
+
+    [[podcasts.starred]]
+    name = "#21 - There Is No Such Thing As Silence"
+
+    [[podcasts.starred]]
+    name = "#9 - The Second Life of Marion Stokes"
+
+    [[podcasts.starred]]
+    name = "#3 - JOKES.TXT"
 
 [[podcasts]]
 name = "5-4"
 url = "https://feeds.acast.com/public/shows/5fc574d8d429ec34a8292b1c"
 
+    [[podcasts.starred]]
+    name = "5-4 x Know Your Enemy: \"Overturning Roe, Part One\""
+
 [[podcasts]]
 name = "The Memory Palace"
 url = "https://feeds.thememorypalace.us/thememorypalace"
+
+    [[podcasts.starred]]
+    name = "Episode 44 (Distance)"
 
 [[podcasts]]
 name = "Vimcasts"
 url = "https://vimcasts.org/feeds/itunes.xml"
 
+    [[podcasts.starred]]
+    name = "Using Python interpolation in UltiSnips snippets"
+
+    [[podcasts.starred]]
+    name = "Operating on search matches using gn"
+
+    [[podcasts.starred]]
+    name = "Profiling Vimscript Performance"
+
 [[podcasts]]
 name = "Perpetual Chess Podcast"
 url = "https://feeds.megaphone.fm/BLU4811105299"
+
+    [[podcasts.starred]]
+    name = "EP.36 - IM Eric Rosen"
 
 [[podcasts]]
 name = "People I (Mostly) Admire"
@@ -110,6 +482,9 @@ url = "https://www.lingolearn.co.il/%D7%9C%D7%9E%D7%93%D7%95-%D7%A9%D7%A4%D7%95%
 name = "You Are Not So Smart"
 url = "https://www.omnycontent.com/d/playlist/aaea4e69-af51-495e-afc9-a9760146922b/da047861-7121-4447-8ccb-ab1a00165c0e/337ad035-d2e9-4942-9e4d-ab1a00165c1c/podcast.rss"
 
+    [[podcasts.starred]]
+    name = "Confabulation | V.S. Ramachandran"
+
 [[podcasts]]
 name = "Innovation Hub"
 url = "https://feeds.wgbh.org/106/feed-rss.xml"
@@ -142,6 +517,9 @@ url = "https://feeds.simplecast.com/FO6kxYGj"
 name = "New Books in Mathematics"
 url = "https://feeds.megaphone.fm/LIT8989774512"
 
+    [[podcasts.starred]]
+    name = "Ellen Peters, \"Innumeracy In The Wild: Misunderstanding and Misusing Numbers\" (Oxford UP, 2020)"
+
 [[podcasts]]
 name = "The Skeptics' Guide to the Universe"
 url = "https://feed.theskepticsguide.org/feed/rss.aspx?feed=sgu"
@@ -153,6 +531,9 @@ url = "https://feeds.wnyc.org/radiolab"
 [[podcasts]]
 name = "Desert Island Discs"
 url = "https://podcasts.files.bbci.co.uk/b006qnmr.rss"
+
+    [[podcasts.starred]]
+    name = "Thom Yorke, musician"
 
 [[podcasts]]
 name = "Nocturne"
@@ -193,6 +574,9 @@ url = "https://feeds.npr.org/510303/podcast.xml"
 [[podcasts]]
 name = "Journal Entries"
 url = "https://feeds.fireside.fm/journalentries/rss"
+
+    [[podcasts.starred]]
+    name = "Redefine Statistical Significance with Edouard Machery"
 
 [[podcasts]]
 name = "This Won't Hurt A Bit"
