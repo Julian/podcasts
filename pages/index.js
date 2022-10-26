@@ -1,5 +1,7 @@
 import Head from 'next/head'
-import Image from 'next/image'
+
+import ExportedImage from "next-image-export-optimizer";
+
 import styles from '../styles/Home.module.css'
 
 
@@ -10,7 +12,7 @@ export default function Home(props) {
       <Head>
         <title>Podcasts</title>
         <meta name="description" content="@Julian's Podcast Library" />
-        <link rel="icon" href="/musical-notes.svg" />
+        <link rel="icon" href="/images/musical-notes.svg" />
       </Head>
 
       <main className={styles.main}>
@@ -33,7 +35,7 @@ export default function Home(props) {
 
       <footer className={styles.footer}>
         <span className={styles.logo}>
-          <Image src="/musical-notes.svg" alt="Musical Notes" width={72} height={16} />
+          <ExportedImage src="/image/musical-notes.svg" alt="Musical Notes" width={72} height={16} />
         </span>
       </footer>
     </div>

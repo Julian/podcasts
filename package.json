@@ -4,12 +4,12 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "next build && next export && next-export-optimize-images",
+    "build": "next build && next export && next-image-export-optimizer",
     "start": "next start",
     "lint": "next lint"
   },
   "dependencies": {
-    "next": "12.2.5",
+    "next": "13.0.0",
     "react": "18.2.0",
     "react-dom": "18.2.0"
   },
@@ -17,6 +17,6 @@
     "@iarna/toml": "^2.2.5",
     "eslint": "8.22.0",
     "eslint-config-next": "12.2.5",
-    "next-export-optimize-images": "^1.6.0"
+    "next-image-export-optimizer": "^1.0.0"
   }
 }
