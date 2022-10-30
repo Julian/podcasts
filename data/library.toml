@@ -1,6 +1,7 @@
 [[podcasts]]
 name = "Freakonomics"
-url = "https://feeds.simplecast.com/Y8lFbOT4"
+url = "https://freakonomics.com/series/freakonomics-radio/"
+rss = "https://feeds.simplecast.com/Y8lFbOT4"
 
     [[podcasts.starred]]
     name = "506. What Is Sportswashing (and Does It Work)?"
@@ -61,7 +62,8 @@ url = "https://feeds.simplecast.com/Y8lFbOT4"
 
 [[podcasts]]
 name = "My Favorite Theorem"
-url = "https://kpknudson.com/my-favorite-theorem?format=rss"
+url = "https://kpknudson.com/my-favorite-theorem"
+rss = "https://kpknudson.com/my-favorite-theorem?format=rss"
 
     [[podcasts.starred]]
     name = "Episode 62 - Tai-Danae Bradley"
@@ -101,7 +103,8 @@ url = "https://kpknudson.com/my-favorite-theorem?format=rss"
 
 [[podcasts]]
 name = "Freakonomics, M.D."
-url = "https://feeds.simplecast.com/Bx9_hnJH"
+url = "https://freakonomics.com/series/bapu/"
+rss = "https://feeds.simplecast.com/Bx9_hnJH"
 
     [[podcasts.starred]]
     name = "46. Could Long Covid Help Treat Other Chronic Illnesses?"
@@ -147,7 +150,8 @@ url = "https://feeds.simplecast.com/Bx9_hnJH"
 
 [[podcasts]]
 name = "Planet Money"
-url = "https://feeds.npr.org/510289/podcast.xml"
+url = "https://www.npr.org/podcasts/510289/planet-money"
+rss = "https://feeds.npr.org/510289/podcast.xml"
 
     [[podcasts.starred]]
     name = "The tale of the Onion King (Update)"
@@ -199,7 +203,8 @@ url = "https://feeds.npr.org/510289/podcast.xml"
 
 [[podcasts]]
 name = "Math Mutation"
-url = "https://www.erikseligman.com/mm/MM_RSS_feed.xml"
+url = "https://mathmutation.blogspot.com/"
+rss = "https://www.erikseligman.com/mm/MM_RSS_feed.xml"
 
     [[podcasts.starred]]
     name = "Math Mutation 230: Just Say The Dog Ate It"
@@ -230,7 +235,8 @@ url = "https://www.erikseligman.com/mm/MM_RSS_feed.xml"
 
 [[podcasts]]
 name = "99% Invisible"
-url = "https://feeds.simplecast.com/BqbsxVfO"
+url = "https://99percentinvisible.org/"
+rss = "https://feeds.simplecast.com/BqbsxVfO"
 
     [[podcasts.starred]]
     name = "485- Murder Most Fowl"
@@ -267,7 +273,8 @@ url = "https://feeds.simplecast.com/BqbsxVfO"
 
 [[podcasts]]
 name = "Criminal"
-url = "https://feeds.megaphone.fm/VMP7924981569"
+url = "https://thisiscriminal.com/"
+rss = "https://feeds.megaphone.fm/VMP7924981569"
 
     [[podcasts.starred]]
     name = "Episode 65: The Kingfish"
@@ -292,7 +299,8 @@ url = "https://feeds.megaphone.fm/VMP7924981569"
 
 [[podcasts]]
 name = "Gastropod"
-url = "https://feeds.megaphone.fm/VMP6255701211"
+url = "https://gastropod.com/"
+rss = "https://feeds.megaphone.fm/VMP6255701211"
 
     [[podcasts.starred]]
     name = "How Ketchup Got Thick"
@@ -311,7 +319,8 @@ url = "https://feeds.megaphone.fm/VMP6255701211"
 
 [[podcasts]]
 name = "Song Exploder"
-url = "https://feed.songexploder.net/songexploder"
+url = "https://songexploder.net/"
+rss = "https://feed.songexploder.net/songexploder"
 
     [[podcasts.starred]]
     name = "Unknown Mortal Orchestra - Multi-Love"
@@ -321,11 +330,13 @@ url = "https://feed.songexploder.net/songexploder"
 
 [[podcasts]]
 name = "Canción Exploder"
-url = "https://feed.songexploder.net/cancionexploder"
+url = "https://cancionexploder.com/"
+rss = "https://feed.songexploder.net/cancionexploder"
 
 [[podcasts]]
 name = "Reply All"
-url = "https://feeds.megaphone.fm/replyall"
+url = "https://gimletmedia.com/shows/reply-all"
+rss = "https://feeds.megaphone.fm/replyall"
 
     [[podcasts.starred]]
     name = "#188 Into the Depths"
@@ -347,14 +358,16 @@ url = "https://feeds.megaphone.fm/replyall"
 
 [[podcasts]]
 name = "Trail of Bits"
-url = "https://feeds.simplecast.com/oM_1xVen"
+url = "https://trailofbits.audio/"
+rss = "https://feeds.simplecast.com/oM_1xVen"
 
     [[podcasts.starred]]
     name = "Zero Knowledge Proofs and ZKDocs"
 
 [[podcasts]]
 name = "Arming the Donkeys"
-url = "https://itunesu.itunes.apple.com/feed/id420535283"
+url = "https://archive.org/details/podcast_arming-donkeys_420535283"
+rss = "https://itunesu.itunes.apple.com/feed/id420535283"
 
     [[podcasts.starred]]
     name = "Imaginary Memories"
@@ -385,11 +398,13 @@ url = "https://itunesu.itunes.apple.com/feed/id420535283"
 
 [[podcasts]]
 name = "Tidbits of Research"
-url = "https://feed.podbean.com/tidbitsofresearch/feed.xml"
+url = "https://tidbitsofresearch.podbean.com/"
+rss = "https://feed.podbean.com/tidbitsofresearch/feed.xml"
 
 [[podcasts]]
 name = "Behind the Bastards"
-url = "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/e5f91208-cc7e-4726-a312-ae280140ad11/d64f756d-6d5e-4fae-b24f-ae280140ad36/podcast.rss"
+url = "https://www.iheart.com/podcast/105-behind-the-bastards-29236323/"
+rss = "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/e5f91208-cc7e-4726-a312-ae280140ad11/d64f756d-6d5e-4fae-b24f-ae280140ad36/podcast.rss"
 
     [[podcasts.starred]]
     name = "Part One: The Man Who Ruined New York"
@@ -399,7 +414,8 @@ url = "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5
 
 [[podcasts]]
 name = "TLDR"
-url = "https://feeds.wnyc.org/otm_tldr"
+url = "https://www.wnycstudios.org/podcasts/otm/projects/tldr"
+rss = "https://feeds.wnyc.org/otm_tldr"
 
     [[podcasts.starred]]
     name = "#28 - No Trail"
@@ -418,21 +434,24 @@ url = "https://feeds.wnyc.org/otm_tldr"
 
 [[podcasts]]
 name = "5-4"
-url = "https://feeds.acast.com/public/shows/5fc574d8d429ec34a8292b1c"
+url = "https://www.fivefourpod.com/"
+rss = "https://feeds.acast.com/public/shows/5fc574d8d429ec34a8292b1c"
 
     [[podcasts.starred]]
     name = "5-4 x Know Your Enemy: \"Overturning Roe, Part One\""
 
 [[podcasts]]
 name = "The Memory Palace"
-url = "https://feeds.thememorypalace.us/thememorypalace"
+url = "https://thememorypalace.us/"
+rss = "https://feeds.thememorypalace.us/thememorypalace"
 
     [[podcasts.starred]]
     name = "Episode 44 (Distance)"
 
 [[podcasts]]
 name = "Vimcasts"
-url = "https://vimcasts.org/feeds/itunes.xml"
+url = "https://vimcasts.org/"
+rss = "https://vimcasts.org/feeds/itunes.xml"
 
     [[podcasts.starred]]
     name = "Using Python interpolation in UltiSnips snippets"
@@ -445,247 +464,305 @@ url = "https://vimcasts.org/feeds/itunes.xml"
 
 [[podcasts]]
 name = "Perpetual Chess Podcast"
-url = "https://feeds.megaphone.fm/BLU4811105299"
+url = "https://www.perpetualchesspod.com/"
+rss = "https://feeds.megaphone.fm/BLU4811105299"
 
     [[podcasts.starred]]
     name = "EP.36 - IM Eric Rosen"
 
 [[podcasts]]
 name = "People I (Mostly) Admire"
-url = "https://feeds.simplecast.com/rP60Wf24"
+url = "https://freakonomics.com/series/people-i-mostly-admire/"
+rss = "https://feeds.simplecast.com/rP60Wf24"
 
 [[podcasts]]
 name = "Giant Robots Smashing Into Other Giant Robots"
-url = "https://feeds.fireside.fm/giantrobots/rss"
+url = "https://www.giantrobots.fm/"
+rss = "https://feeds.fireside.fm/giantrobots/rss"
 
 [[podcasts]]
 name = "The History of Rome"
-url = "https://feeds.feedburner.com/TheHistoryOfRome"
+url = "https://thehistoryofrome.typepad.com/"
+rss = "https://feeds.feedburner.com/TheHistoryOfRome"
 
 [[podcasts]]
 name = "Omega Tau"
-url = "https://omegataupodcast.net/show/en/feed/mp3/"
+url = "https://omegataupodcast.net/"
+rss = "https://omegataupodcast.net/show/en/feed/mp3/"
 
 [[podcasts]]
 name = "Ghibliotheque - A Podcast About Studio Ghibli"
-url = "https://feeds.acast.com/public/shows/9b41cd90-c759-4ccb-98b1-16a633915c57"
+url = "https://play.acast.com/s/ghibliotheque"
+rss = "https://feeds.acast.com/public/shows/9b41cd90-c759-4ccb-98b1-16a633915c57"
 
 [[podcasts]]
 name = "You Made It Weird with Pete Holmes"
-url = "https://feeds.feedburner.com/YouMadeItWeird"
+url = "https://youmadeitweird.libsyn.com/"
+rss = "https://feeds.feedburner.com/YouMadeItWeird"
 
 [[podcasts]]
 name = "ערבית מדוברת עלא עיני ועלא ראסי"
 url = "https://www.lingolearn.co.il/%D7%9C%D7%9E%D7%93%D7%95-%D7%A9%D7%A4%D7%95%D7%AA/%D7%9C%D7%9C%D7%9E%D7%95%D7%93-%D7%A2%D7%A8%D7%91%D7%99%D7%AA-%D7%9E%D7%93%D7%95%D7%91%D7%A8%D7%AA/%D7%A4%D7%95%D7%93%D7%A7%D7%90%D7%A1%D7%98-%D7%A2%D7%A8%D7%91%D7%99%D7%AA-%D7%9E%D7%93%D7%95%D7%91%D7%A8%D7%AA/"
+rss = "https://www.lingolearn.co.il/%D7%9C%D7%9E%D7%93%D7%95-%D7%A9%D7%A4%D7%95%D7%AA/%D7%9C%D7%9C%D7%9E%D7%95%D7%93-%D7%A2%D7%A8%D7%91%D7%99%D7%AA-%D7%9E%D7%93%D7%95%D7%91%D7%A8%D7%AA/%D7%A4%D7%95%D7%93%D7%A7%D7%90%D7%A1%D7%98-%D7%A2%D7%A8%D7%91%D7%99%D7%AA-%D7%9E%D7%93%D7%95%D7%91%D7%A8%D7%AA/"
 
 [[podcasts]]
 name = "You Are Not So Smart"
-url = "https://www.omnycontent.com/d/playlist/aaea4e69-af51-495e-afc9-a9760146922b/da047861-7121-4447-8ccb-ab1a00165c0e/337ad035-d2e9-4942-9e4d-ab1a00165c1c/podcast.rss"
+url = "https://youarenotsosmart.com/"
+rss = "https://www.omnycontent.com/d/playlist/aaea4e69-af51-495e-afc9-a9760146922b/da047861-7121-4447-8ccb-ab1a00165c0e/337ad035-d2e9-4942-9e4d-ab1a00165c1c/podcast.rss"
 
     [[podcasts.starred]]
     name = "Confabulation | V.S. Ramachandran"
 
 [[podcasts]]
 name = "Innovation Hub"
-url = "https://feeds.wgbh.org/106/feed-rss.xml"
+url = "https://www.npr.org/podcasts/512646501/innovation-hub"
+rss = "https://feeds.wgbh.org/106/feed-rss.xml"
 
 [[podcasts]]
 name = "Talking Machines"
-url = "https://www.omnycontent.com/d/playlist/aaea4e69-af51-495e-afc9-a9760146922b/b92baa3c-b9c8-488c-aa9e-aafd001cbf66/12abbc3c-ae53-487a-b83b-aafd001cbf79/podcast.rss"
+url = "https://www.thetalkingmachines.com/home"
+rss = "https://www.omnycontent.com/d/playlist/aaea4e69-af51-495e-afc9-a9760146922b/b92baa3c-b9c8-488c-aa9e-aafd001cbf66/12abbc3c-ae53-487a-b83b-aafd001cbf79/podcast.rss"
 
 [[podcasts]]
 name = "Breaking Changes"
-url = "https://feed.podbean.com/breakingchanges/feed.xml"
+url = "https://www.postman.com/events/breaking-changes/"
+rss = "https://feed.podbean.com/breakingchanges/feed.xml"
 
 [[podcasts]]
 name = "Lexicon Valley"
-url = "https://feeds.megaphone.fm/slatelexiconvalley"
+url = "https://slate.com/podcasts/lexicon-valley"
+rss = "https://feeds.megaphone.fm/slatelexiconvalley"
 
 [[podcasts]]
 name = "Stay Tuned with Preet"
-url = "https://feeds.megaphone.fm/VMP5489734702"
+url = "https://cafe.com/stay-tuned-podcast/"
+rss = "https://feeds.megaphone.fm/VMP5489734702"
 
 [[podcasts]]
 name = "No Such Thing As A Fish"
-url = "https://audioboom.com/channels/2399216.rss"
+url = "https://www.nosuchthingasafish.com/"
+rss = "https://audioboom.com/channels/2399216.rss"
 
 [[podcasts]]
 name = "Ologies with Alie Ward"
-url = "https://feeds.simplecast.com/FO6kxYGj"
+url = "https://www.alieward.com/ologies"
+rss = "https://feeds.simplecast.com/FO6kxYGj"
 
 [[podcasts]]
 name = "New Books in Mathematics"
-url = "https://feeds.megaphone.fm/LIT8989774512"
+url = "https://newbooksnetwork.com/category/science-technology/mathematics"
+rss = "https://feeds.megaphone.fm/LIT8989774512"
 
     [[podcasts.starred]]
     name = "Ellen Peters, \"Innumeracy In The Wild: Misunderstanding and Misusing Numbers\" (Oxford UP, 2020)"
 
 [[podcasts]]
 name = "The Skeptics' Guide to the Universe"
-url = "https://feed.theskepticsguide.org/feed/rss.aspx?feed=sgu"
+url = "https://www.theskepticsguide.org/"
+rss = "https://feed.theskepticsguide.org/feed/rss.aspx?feed=sgu"
 
 [[podcasts]]
 name = "Radiolab"
-url = "https://feeds.wnyc.org/radiolab"
+url = "https://www.radiolab.org/"
+rss = "https://feeds.wnyc.org/radiolab"
 
 [[podcasts]]
 name = "Desert Island Discs"
-url = "https://podcasts.files.bbci.co.uk/b006qnmr.rss"
+url = "https://www.bbc.co.uk/programmes/b006qnmr"
+rss = "https://podcasts.files.bbci.co.uk/b006qnmr.rss"
 
     [[podcasts.starred]]
     name = "Thom Yorke, musician"
 
 [[podcasts]]
 name = "Nocturne"
-url = "https://nocturnepodcast.org/feed/podcast"
+url = "https://nocturnepodcast.org/"
+rss = "https://nocturnepodcast.org/feed/podcast"
 
 [[podcasts]]
 name = "The Distance"
-url = "https://feeds.transistor.fm/the-distance"
+url = "https://thedistance.basecamp.com/"
+rss = "https://feeds.transistor.fm/the-distance"
 
 [[podcasts]]
 name = "Ben, Ben and Blue"
-url = "https://benbenandblue.libsyn.com/rss"
+url = "https://benbenandblue.com"
+rss = "https://benbenandblue.libsyn.com/rss"
 
 [[podcasts]]
 name = "Italiano Piano Piano"
-url = "https://www.ivoox.com/aprende-italiano-poco-a-poco-piano-piano_fg_f1633779_filtro_1.xml"
+url = "https://italianopianopiano.blogspot.com/"
+rss = "https://www.ivoox.com/aprende-italiano-poco-a-poco-piano-piano_fg_f1633779_filtro_1.xml"
 
 [[podcasts]]
 name = "The Truth"
-url = "https://feeds.feedburner.com/thetruthapm"
+url = "https://www.thetruthpodcast.com/"
+rss = "https://feeds.feedburner.com/thetruthapm"
 
 [[podcasts]]
 name = "Infinite Guest Everything Feed"
-url = "https://feeds.feedburner.com/InfiniteGuest"
+url = "https://www.americanpublicmedia.org/podcast/"
+rss = "https://feeds.feedburner.com/InfiniteGuest"
 
 [[podcasts]]
 name = "Cualquier tiempo pasado fue anterior"
-url = "https://fapi-top.prisasd.com/podcast/playser/todo_concostrina/itunestfp/podcast.xml"
+url = "https://cadenaser.com/podcast/cadena-ser/cualquier-tiempo-pasado-fue-anterior-nuevo/1631/"
+rss = "https://fapi-top.prisasd.com/podcast/playser/todo_concostrina/itunestfp/podcast.xml"
 
 [[podcasts]]
 name = "Say Why To Drugs"
-url = "https://feeds.acast.com/public/shows/73352696-5a2a-4de4-9f49-e2f0f5833c8b"
+url = "https://play.acast.com/s/saywhytodrugs"
+rss = "https://feeds.acast.com/public/shows/73352696-5a2a-4de4-9f49-e2f0f5833c8b"
 
 [[podcasts]]
 name = "How To Do Everything"
-url = "https://feeds.npr.org/510303/podcast.xml"
+url = "https://howtodoeverything.org/"
+rss = "https://feeds.npr.org/510303/podcast.xml"
 
 [[podcasts]]
 name = "Journal Entries"
-url = "https://feeds.fireside.fm/journalentries/rss"
+url = "https://journalentries.fireside.fm/episodes"
+rss = "https://feeds.fireside.fm/journalentries/rss"
 
     [[podcasts.starred]]
     name = "Redefine Statistical Significance with Edouard Machery"
 
 [[podcasts]]
 name = "This Won't Hurt A Bit"
-url = "https://thiswonthurtabit.libsyn.com/rss"
+url = "https://www.foolyboo.org/this-wont-hurt-a-bit"
+rss = "https://thiswonthurtabit.libsyn.com/rss"
 
 [[podcasts]]
 name = "The Infinite Monkey Cage"
-url = "https://podcasts.files.bbci.co.uk/b00snr0w.rss"
+url = "https://www.bbc.co.uk/programmes/b00snr0w"
+rss = "https://podcasts.files.bbci.co.uk/b00snr0w.rss"
 
 [[podcasts]]
 name = "Desert Island Discs: Archive 1976-1980"
-url = "https://podcasts.files.bbci.co.uk/p02p70vc.rss"
+url = "https://www.bbc.co.uk/programmes/b006qnmr"
+rss = "https://podcasts.files.bbci.co.uk/p02p70vc.rss"
 
 [[podcasts]]
 name = "Dan Carlin's Hardcore History"
-url = "https://feeds.feedburner.com/dancarlin/history?format=xml"
+url = "https://www.dancarlin.com/hardcore-history-series/"
+rss = "https://feeds.feedburner.com/dancarlin/history?format=xml"
 
 [[podcasts]]
 name = "CFR Events Audio"
-url = "https://feeds.cfr.org/publication/twnw"
+url = "https://www.cfr.org/event"
+rss = "https://feeds.cfr.org/publication/twnw"
 
 [[podcasts]]
 name = "Invisibilia"
-url = "https://feeds.npr.org/510307/podcast.xml"
+url = "https://www.npr.org/programs/invisibilia/"
+rss = "https://feeds.npr.org/510307/podcast.xml"
 
 [[podcasts]]
 name = "Breaking Math Podcast"
-url = "https://www.spreaker.com/show/5545277/episodes/feed"
+url = "https://breakingmathpodcast.app/"
+rss = "https://www.spreaker.com/show/5545277/episodes/feed"
 
 [[podcasts]]
 name = "Easy Japanese: Grammar Lessons | NHK WORLD-JAPAN"
-url = "https://www.nhk.or.jp/lesson/common/rss/podcast/english.xml"
+url = "https://www.nhk.or.jp/lesson/en/"
+rss = "https://www.nhk.or.jp/lesson/common/rss/podcast/english.xml"
 
 [[podcasts]]
 name = "The Indicator from Planet Money"
-url = "https://feeds.npr.org/510325/podcast.xml"
+url = "https://www.npr.org/podcasts/510325/the-indicator-from-planet-money"
+rss = "https://feeds.npr.org/510325/podcast.xml"
 
 [[podcasts]]
 name = "Writing Excuses"
-url = "https://writingexcuses.com/feed/podcast/"
+url = "https://writingexcuses.com/"
+rss = "https://writingexcuses.com/feed/podcast/"
 
 [[podcasts]]
 name = "How I Built This"
-url = "https://rss.art19.com/how-i-built-this"
+url = "https://www.npr.org/series/490248027/how-i-built-this"
+rss = "https://rss.art19.com/how-i-built-this"
 
 [[podcasts]]
 name = "The Problem With Jon Stewart"
-url = "https://rss.art19.com/the-problem-with-jon-stewart"
+url = "https://www.theproblem.com/"
+rss = "https://rss.art19.com/the-problem-with-jon-stewart"
 
 [[podcasts]]
 name = "Theoretically Speaking"
-url = "https://feeds.feedburner.com/TheoreticallySpeakingCJSW"
+url = "https://cjsw.com/program/theoretically-speaking/"
+rss = "https://feeds.feedburner.com/TheoreticallySpeakingCJSW"
 
 [[podcasts]]
 name = "Making Sense with Sam Harris"
-url = "https://wakingup.libsyn.com/rss"
+url = "https://www.samharris.org/podcasts/making-sense-episodes"
+rss = "https://wakingup.libsyn.com/rss"
 
 [[podcasts]]
 name = "50 Things That Made the Modern Economy"
-url = "https://podcasts.files.bbci.co.uk/p04b1g3c.rss"
+url = "https://www.bbc.co.uk/programmes/p04b1g3c"
+rss = "https://podcasts.files.bbci.co.uk/p04b1g3c.rss"
 
 [[podcasts]]
 name = "Odds and Evenings"
-url = "https://feeds.fireside.fm/oddsandevenings/rss"
+url = "https://www.oddsandevenings.com/"
+rss = "https://feeds.fireside.fm/oddsandevenings/rss"
 
 [[podcasts]]
 name = "Stuff You Missed in History Class"
-url = "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/cfb428ef-eafc-44d0-9d09-ae2701747e6f/fb626e1f-112c-4246-a40d-ae2701747e7d/podcast.rss"
+url = "https://www.iheart.com/content/about-stuff-you-missed-in-history-class/"
+rss = "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/cfb428ef-eafc-44d0-9d09-ae2701747e6f/fb626e1f-112c-4246-a40d-ae2701747e7d/podcast.rss"
 
 [[podcasts]]
 name = "Aquí hay dragones"
-url = "https://fapi-top.prisasd.com/podcast/podium/aqui_hay_dragones/itunestfp/podcast.xml"
+url = "https://www.podiumpodcast.com/podcasts/aqui-hay-dragones-podium-os/episodio/3275894/"
+rss = "https://fapi-top.prisasd.com/podcast/podium/aqui_hay_dragones/itunestfp/podcast.xml"
 
 [[podcasts]]
 name = "Undiscovered"
-url = "https://feeds.feedburner.com/pri/undiscovered"
+url = "https://www.wnycstudios.org/podcasts/undiscovered"
+rss = "https://feeds.feedburner.com/pri/undiscovered"
 
 [[podcasts]]
 name = "Cooking Issues"
-url = "https://feeds.simplecast.com/cU5oVuUi"
+url = "https://cookingissues.com/"
+rss = "https://feeds.simplecast.com/cU5oVuUi"
 
 [[podcasts]]
 name = "The 3b1b podcast"
-url = "https://anchor.fm/s/636b4820/podcast/rss"
+url = "https://www.3blue1brown.com/podcast"
+rss = "https://anchor.fm/s/636b4820/podcast/rss"
 
 [[podcasts]]
 name = "This American Life"
-url = "https://feed.thisamericanlife.org/talpodcast"
+url = "https://thisamericanlife.org/"
+rss = "https://feed.thisamericanlife.org/talpodcast"
 
 [[podcasts]]
 name = "Software Engineering Radio"
-url = "https://seradio.libsyn.com/rss"
+url = "https://www.se-radio.net/"
+rss = "https://seradio.libsyn.com/rss"
 
 [[podcasts]]
 name = "Italiano Automatico Podcast"
-url = "https://italianoautomatico.podomatic.com/rss2.xml"
+url = "https://italianoautomatico.podomatic.com/"
+rss = "https://italianoautomatico.podomatic.com/rss2.xml"
 
 [[podcasts]]
 name = "Relatively Prime: Stories from the Mathematical Domain"
-url = "https://feeds.feedburner.com/relprime"
+url = "https://relprime.com/"
+rss = "https://feeds.feedburner.com/relprime"
 
 [[podcasts]]
 name = "EconTalk"
-url = "https://feeds.simplecast.com/wgl4xEgL"
+url = "https://www.econtalk.org/"
+rss = "https://feeds.simplecast.com/wgl4xEgL"
 
 [[podcasts]]
 name = "Historias de la Historia"
-url = "https://www.ivoox.com/historias-de-la-historia_fg_f1111785_filtro_1.xml"
+url = "https://historiasdelahistoria.com/"
+rss = "https://www.ivoox.com/historias-de-la-historia_fg_f1111785_filtro_1.xml"
 
 [[podcasts]]
 name = "The Catch and Kill Podcast with Ronan Farrow"
-url = "https://feeds.megaphone.fm/PSM3738803926"
+url = "https://www.iheart.com/podcast/867-the-catch-and-kill-podcast-53194098/"
+rss = "https://feeds.megaphone.fm/PSM3738803926"
