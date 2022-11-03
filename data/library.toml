@@ -476,6 +476,11 @@ url = "https://freakonomics.com/series/people-i-mostly-admire/"
 rss = "https://feeds.simplecast.com/rP60Wf24"
 
 [[podcasts]]
+name = "Hidden Brain"
+url = "https://hiddenbrain.org/"
+rss = "https://feeds.simplecast.com/kwWc0lhf"
+
+[[podcasts]]
 name = "Giant Robots Smashing Into Other Giant Robots"
 url = "https://www.giantrobots.fm/"
 rss = "https://feeds.fireside.fm/giantrobots/rss"
