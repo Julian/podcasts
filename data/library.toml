@@ -4,6 +4,9 @@ url = "https://freakonomics.com/series/freakonomics-radio/"
 rss = "https://feeds.simplecast.com/Y8lFbOT4"
 
     [[podcasts.starred]]
+    name = "518. Are Personal Finance Gurus Giving You Bad Advice?"
+
+    [[podcasts.starred]]
     name = "506. What Is Sportswashing (and Does It Work)?"
 
     [[podcasts.starred]]
@@ -237,6 +240,12 @@ rss = "https://www.erikseligman.com/mm/MM_RSS_feed.xml"
 name = "99% Invisible"
 url = "https://99percentinvisible.org/"
 rss = "https://feeds.simplecast.com/BqbsxVfO"
+
+    [[podcasts.starred]]
+    name = "513- The Safety Bicycle"
+
+    [[podcasts.starred]]
+    name = "510- Wickedest Sound"
 
     [[podcasts.starred]]
     name = "485- Murder Most Fowl"
