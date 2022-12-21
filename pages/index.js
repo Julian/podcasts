@@ -1,9 +1,8 @@
-import Head from 'next/head'
+import Head from "next/head";
 
 import ExportedImage from "next-image-export-optimizer";
 
-import styles from '../styles/Home.module.css'
-
+import styles from "../styles/Home.module.css";
 
 export default function Home(props) {
   const podcasts = props.podcasts;
@@ -16,40 +15,42 @@ export default function Home(props) {
       </Head>
 
       <main className={styles.main}>
-        <h1 className={styles.title}>
-          Podcasts
-        </h1>
+        <h1 className={styles.title}>Podcasts</h1>
 
-        <p className={styles.description}>
-          Library
-        </p>
+        <p className={styles.description}>Library</p>
 
         <div className={styles.grid}>
-          {podcasts.map(podcast =>
+          {podcasts.map((podcast) => (
             <a key={podcast.name} href={podcast.url} className={styles.card}>
               <h2>{podcast.name}</h2>
               <p>Lorem ipsum dolor my teeth.</p>
-            </a>)}
+            </a>
+          ))}
         </div>
       </main>
 
       <footer className={styles.footer}>
         <span className={styles.logo}>
-          <ExportedImage src="/image/musical-notes.svg" alt="Musical Notes" width={72} height={16} />
+          <ExportedImage
+            src="/image/musical-notes.svg"
+            alt="Musical Notes"
+            width={72}
+            height={16}
+          />
         </span>
       </footer>
     </div>
-  )
+  );
 }
 
-import { promises as fs } from 'fs'
-import path from 'path'
-const TOML = require('@iarna/toml')
+import { promises as fs } from "fs";
+import path from "path";
+const TOML = require("@iarna/toml");
 
 export async function getStaticProps() {
-  const libraryPath = path.join(process.cwd(), 'data/library.toml');
+  const libraryPath = path.join(process.cwd(), "data/library.toml");
   const tomlData = await fs.readFile(libraryPath);
   const library = TOML.parse(tomlData);
 
-  return { props : library }
+  return { props: library };
 }

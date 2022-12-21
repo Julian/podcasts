@@ -15,6 +15,6 @@ const nextConfig = {
     nextImageExportOptimizer_storePicturesInWEBP: true,
     nextImageExportOptimizer_generateAndUseBlurImages: true,
   },
-}
+};
 
-module.exports = nextConfig
+module.exports = nextConfig;
