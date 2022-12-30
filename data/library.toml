@@ -157,6 +157,9 @@ url = "https://www.npr.org/podcasts/510289/planet-money"
 rss = "https://feeds.npr.org/510289/podcast.xml"
 
     [[podcasts.starred]]
+    name = "In defense of gift giving"
+
+    [[podcasts.starred]]
     name = "The tale of the Onion King (Update)"
 
     [[podcasts.starred]]
