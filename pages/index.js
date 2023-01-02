@@ -23,7 +23,12 @@ export default function Home(props) {
           {podcasts.map((podcast) => (
             <a key={podcast.name} href={podcast.url} className={styles.card}>
               <h2>{podcast.name}</h2>
-              <p>Lorem ipsum dolor my teeth.</p>
+              <p>
+                Lorem ipsum dolor my teeth.
+                <button type="button" className={styles.starred}>
+                  {(podcast.starred || []).length} ★
+                </button>
+              </p>
             </a>
           ))}
         </div>
@@ -50,7 +55,7 @@ const TOML = require("@iarna/toml");
 export async function getStaticProps() {
   const libraryPath = path.join(process.cwd(), "data/library.toml");
   const tomlData = await fs.readFile(libraryPath);
-  const library = TOML.parse(tomlData);
+  const library = await TOML.parse.async(tomlData);
 
   return { props: library };
 }
