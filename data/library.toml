@@ -110,6 +110,9 @@ url = "https://freakonomics.com/series/bapu/"
 rss = "https://feeds.simplecast.com/Bx9_hnJH"
 
     [[podcasts.starred]]
+    name = "61. Should You Bother Getting a Colonoscopy?"
+
+    [[podcasts.starred]]
     name = "46. Could Long Covid Help Treat Other Chronic Illnesses?"
 
     [[podcasts.starred]]
@@ -158,6 +161,9 @@ rss = "https://feeds.npr.org/510289/podcast.xml"
 
     [[podcasts.starred]]
     name = "In defense of gift giving"
+
+    [[podcasts.starred]]
+    name = "Spam call bounty hunter"
 
     [[podcasts.starred]]
     name = "The tale of the Onion King (Update)"
@@ -448,6 +454,12 @@ rss = "https://feeds.wnyc.org/otm_tldr"
 name = "5-4"
 url = "https://www.fivefourpod.com/"
 rss = "https://feeds.acast.com/public/shows/5fc574d8d429ec34a8292b1c"
+
+    [[podcasts.starred]]
+    name = "McDonnell v. United States"
+
+    [[podcasts.starred]]
+    name = "Utah v. Strieff"
 
     [[podcasts.starred]]
     name = "5-4 x Know Your Enemy: \"Overturning Roe, Part One\""
