@@ -347,11 +347,6 @@ rss = "https://feed.songexploder.net/songexploder"
     name = "Spoon - Inside Out"
 
 [[podcasts]]
-name = "Canción Exploder"
-url = "https://cancionexploder.com/"
-rss = "https://feed.songexploder.net/cancionexploder"
-
-[[podcasts]]
 name = "Reply All"
 url = "https://gimletmedia.com/shows/reply-all"
 rss = "https://feeds.megaphone.fm/replyall"
@@ -790,8 +785,3 @@ rss = "https://feeds.simplecast.com/wgl4xEgL"
 name = "Historias de la Historia"
 url = "https://historiasdelahistoria.com/"
 rss = "https://www.ivoox.com/historias-de-la-historia_fg_f1111785_filtro_1.xml"
-
-[[podcasts]]
-name = "The Catch and Kill Podcast with Ronan Farrow"
-url = "https://www.iheart.com/podcast/867-the-catch-and-kill-podcast-53194098/"
-rss = "https://feeds.megaphone.fm/PSM3738803926"
