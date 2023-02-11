@@ -462,7 +462,7 @@ rss = "https://feeds.acast.com/public/shows/5fc574d8d429ec34a8292b1c"
 [[podcasts]]
 name = "The Memory Palace"
 url = "https://thememorypalace.us/"
-rss = "https://feeds.thememorypalace.us/thememorypalace"
+rss = "http://feeds.thememorypalace.us/thememorypalace"
 
     [[podcasts.starred]]
     name = "Episode 44 (Distance)"
@@ -622,11 +622,6 @@ rss = "https://www.ivoox.com/aprende-italiano-poco-a-poco-piano-piano_fg_f163377
 name = "The Truth"
 url = "https://www.thetruthpodcast.com/"
 rss = "https://feeds.feedburner.com/thetruthapm"
-
-[[podcasts]]
-name = "Infinite Guest Everything Feed"
-url = "https://www.americanpublicmedia.org/podcast/"
-rss = "https://feeds.feedburner.com/InfiniteGuest"
 
 [[podcasts]]
 name = "Cualquier tiempo pasado fue anterior"
