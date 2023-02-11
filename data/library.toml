@@ -380,7 +380,6 @@ rss = "https://feeds.simplecast.com/oM_1xVen"
 [[podcasts]]
 name = "Arming the Donkeys"
 url = "https://archive.org/details/podcast_arming-donkeys_420535283"
-rss = "https://itunesu.itunes.apple.com/feed/id420535283"
 
     [[podcasts.starred]]
     name = "Imaginary Memories"
@@ -428,7 +427,7 @@ rss = "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5
 [[podcasts]]
 name = "TLDR"
 url = "https://www.wnycstudios.org/podcasts/otm/projects/tldr"
-rss = "https://feeds.wnyc.org/otm_tldr"
+rss = "https://feeds.feedburner.com/otm_tldr"
 
     [[podcasts.starred]]
     name = "#28 - No Trail"
@@ -470,7 +469,7 @@ rss = "http://feeds.thememorypalace.us/thememorypalace"
 [[podcasts]]
 name = "Vimcasts"
 url = "https://vimcasts.org/"
-rss = "https://vimcasts.org/feeds/itunes.xml"
+rss = "http://vimcasts.org/feeds/itunes.xml"
 
     [[podcasts.starred]]
     name = "Using Python interpolation in UltiSnips snippets"
@@ -527,7 +526,7 @@ rss = "https://feeds.feedburner.com/YouMadeItWeird"
 [[podcasts]]
 name = "ערבית מדוברת עלא עיני ועלא ראסי"
 url = "https://www.lingolearn.co.il/%D7%9C%D7%9E%D7%93%D7%95-%D7%A9%D7%A4%D7%95%D7%AA/%D7%9C%D7%9C%D7%9E%D7%95%D7%93-%D7%A2%D7%A8%D7%91%D7%99%D7%AA-%D7%9E%D7%93%D7%95%D7%91%D7%A8%D7%AA/%D7%A4%D7%95%D7%93%D7%A7%D7%90%D7%A1%D7%98-%D7%A2%D7%A8%D7%91%D7%99%D7%AA-%D7%9E%D7%93%D7%95%D7%91%D7%A8%D7%AA/"
-rss = "https://www.lingolearn.co.il/%D7%9C%D7%9E%D7%93%D7%95-%D7%A9%D7%A4%D7%95%D7%AA/%D7%9C%D7%9C%D7%9E%D7%95%D7%93-%D7%A2%D7%A8%D7%91%D7%99%D7%AA-%D7%9E%D7%93%D7%95%D7%91%D7%A8%D7%AA/%D7%A4%D7%95%D7%93%D7%A7%D7%90%D7%A1%D7%98-%D7%A2%D7%A8%D7%91%D7%99%D7%AA-%D7%9E%D7%93%D7%95%D7%91%D7%A8%D7%AA/"
+rss = "https://feed.podbean.com/spokenarabic/feed.xml"
 
 [[podcasts]]
 name = "You Are Not So Smart"
@@ -588,7 +587,7 @@ rss = "https://feed.theskepticsguide.org/feed/rss.aspx?feed=sgu"
 [[podcasts]]
 name = "Radiolab"
 url = "https://www.radiolab.org/"
-rss = "https://feeds.wnyc.org/radiolab"
+rss = "https://feeds.feedburner.com/radiolab"
 
 [[podcasts]]
 name = "Desert Island Discs"
@@ -611,7 +610,6 @@ rss = "https://feeds.transistor.fm/the-distance"
 [[podcasts]]
 name = "Ben, Ben and Blue"
 url = "https://benbenandblue.com"
-rss = "https://benbenandblue.libsyn.com/rss"
 
 [[podcasts]]
 name = "Italiano Piano Piano"
@@ -684,7 +682,7 @@ rss = "https://www.spreaker.com/show/5545277/episodes/feed"
 [[podcasts]]
 name = "Easy Japanese: Grammar Lessons | NHK WORLD-JAPAN"
 url = "https://www.nhk.or.jp/lesson/en/"
-rss = "https://www.nhk.or.jp/lesson/common/rss/podcast/english.xml"
+rss = "https://www.nhk.or.jp/lesson/en/rss/podcast.xml"
 
 [[podcasts]]
 name = "The Indicator from Planet Money"
@@ -709,7 +707,6 @@ rss = "https://rss.art19.com/the-problem-with-jon-stewart"
 [[podcasts]]
 name = "Theoretically Speaking"
 url = "https://cjsw.com/program/theoretically-speaking/"
-rss = "https://feeds.feedburner.com/TheoreticallySpeakingCJSW"
 
 [[podcasts]]
 name = "Making Sense with Sam Harris"
