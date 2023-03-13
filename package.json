@@ -15,7 +15,7 @@
   },
   "devDependencies": {
     "@iarna/toml": "^2.2.5",
-    "eslint": "8.35.0",
+    "eslint": "8.36.0",
     "eslint-config-next": "13.2.1",
     "next-image-export-optimizer": "^1.2.0"
   }
