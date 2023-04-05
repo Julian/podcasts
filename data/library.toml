@@ -4,6 +4,12 @@ url = "https://freakonomics.com/series/freakonomics-radio/"
 rss = "https://feeds.simplecast.com/Y8lFbOT4"
 
     [[podcasts.starred]]
+    name = "537. \"Insurance Is Sexy.\" Discuss."
+
+    [[podcasts.starred]]
+    name = "531. Should You Trust Private Equity to Take Care of Your Dog?"
+
+    [[podcasts.starred]]
     name = "518. Are Personal Finance Gurus Giving You Bad Advice?"
 
     [[podcasts.starred]]
@@ -110,6 +116,9 @@ url = "https://freakonomics.com/series/bapu/"
 rss = "https://feeds.simplecast.com/Bx9_hnJH"
 
     [[podcasts.starred]]
+    name = "67. Why Did This 60-Year-Old Man Collapse at the Supermarket?"
+
+    [[podcasts.starred]]
     name = "61. Should You Bother Getting a Colonoscopy?"
 
     [[podcasts.starred]]
@@ -158,6 +167,15 @@ rss = "https://feeds.simplecast.com/Bx9_hnJH"
 name = "Planet Money"
 url = "https://www.npr.org/podcasts/510289/planet-money"
 rss = "https://feeds.npr.org/510289/podcast.xml"
+
+    [[podcasts.starred]]
+    name = "Hollywood's Black List"
+
+    [[podcasts.starred]]
+    name = "The ice cream conspiracy"
+
+    [[podcasts.starred]]
+    name = "Charles Ponzi's scheme"
 
     [[podcasts.starred]]
     name = "In defense of gift giving"
@@ -249,6 +267,15 @@ rss = "https://www.erikseligman.com/mm/MM_RSS_feed.xml"
 name = "99% Invisible"
 url = "https://99percentinvisible.org/"
 rss = "https://feeds.simplecast.com/BqbsxVfO"
+
+    [[podcasts.starred]]
+    name = "524- The Day the Music Stopped"
+
+    [[podcasts.starred]]
+    name = "523- Six-on-Six Basketball"
+
+    [[podcasts.starred]]
+    name = "521- A Sea of Yellow"
 
     [[podcasts.starred]]
     name = "513- The Safety Bicycle"
