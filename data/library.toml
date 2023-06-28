@@ -4,6 +4,21 @@ url = "https://freakonomics.com/series/freakonomics-radio/"
 rss = "https://feeds.simplecast.com/Y8lFbOT4"
 
     [[podcasts.starred]]
+    name = "How to Hate Taxes a Little Bit Less"
+
+    [[podcasts.starred]]
+    name = "Make Me a Match (Ep. 209 Update)"
+
+    [[podcasts.starred]]
+    name = "Why Your Projects Are Always Late - and What to Do About It"
+
+    [[podcasts.starred]]
+    name = "545. Enough With the Slippery Slopes!"
+
+    [[podcasts.starred]]
+    name = "544. Ari Emanuel is Never Indifferent"
+
+    [[podcasts.starred]]
     name = "537. \"Insurance Is Sexy.\" Discuss."
 
     [[podcasts.starred]]
@@ -169,6 +184,18 @@ url = "https://www.npr.org/podcasts/510289/planet-money"
 rss = "https://feeds.npr.org/510289/podcast.xml"
 
     [[podcasts.starred]]
+    name = "The town that changed economics"
+
+    [[podcasts.starred]]
+    name = "The Spider-Man Problem"
+
+    [[podcasts.starred]]
+    name = "Twins"
+
+    [[podcasts.starred]]
+    name = "How to fight a squatting goat"
+
+    [[podcasts.starred]]
     name = "Hollywood's Black List"
 
     [[podcasts.starred]]
@@ -269,6 +296,9 @@ url = "https://99percentinvisible.org/"
 rss = "https://feeds.simplecast.com/BqbsxVfO"
 
     [[podcasts.starred]]
+    name = "535- Craptions"
+
+    [[podcasts.starred]]
     name = "524- The Day the Music Stopped"
 
     [[podcasts.starred]]
@@ -348,6 +378,12 @@ url = "https://gastropod.com/"
 rss = "https://feeds.megaphone.fm/VMP6255701211"
 
     [[podcasts.starred]]
+    name = "Museums and the Mafia: The Secret History of Citrus"
+
+    [[podcasts.starred]]
+    name = "Gettin' Fizzy With It"
+
+    [[podcasts.starred]]
     name = "How Ketchup Got Thick"
 
     [[podcasts.starred]]
@@ -366,6 +402,9 @@ rss = "https://feeds.megaphone.fm/VMP6255701211"
 name = "Song Exploder"
 url = "https://songexploder.net/"
 rss = "https://feed.songexploder.net/songexploder"
+
+    [[podcasts.starred]]
+    name = "Madison McFerrin - Run (feat. Bobby McFerrin)"
 
     [[podcasts.starred]]
     name = "Unknown Mortal Orchestra - Multi-Love"
@@ -484,6 +523,33 @@ rss = "https://feeds.acast.com/public/shows/5fc574d8d429ec34a8292b1c"
 
     [[podcasts.starred]]
     name = "5-4 x Know Your Enemy: \"Overturning Roe, Part One\""
+
+    [[podcasts.starred]]
+    name = "Minor v. Happersett"
+
+    [[podcasts.starred]]
+    name = "Boyle v. United Technologies Corporation"
+
+    [[podcasts.starred]]
+    name = "Shinn v. Ramirez"
+
+    [[podcasts.starred]]
+    name = "Egbert v. Boule"
+
+    [[podcasts.starred]]
+    name = "Federal Election Commission v. Ted Cruz for Senate"
+
+    [[podcasts.starred]]
+    name = "Fisher v. University of Texas"
+
+    [[podcasts.starred]]
+    name = "Castle Rock v. Gonzales"
+
+    [[podcasts.starred]]
+    name = "Citizens United v. FEC"
+
+    [[podcasts.starred]]
+    name = "Bush v. Gore"
 
 [[podcasts]]
 name = "The Memory Palace"
