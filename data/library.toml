@@ -4,6 +4,9 @@ url = "https://freakonomics.com/series/freakonomics-radio/"
 rss = "https://feeds.simplecast.com/Y8lFbOT4"
 
     [[podcasts.starred]]
+    name = "Why Did You Marry That Person?"
+
+    [[podcasts.starred]]
     name = "How to Hate Taxes a Little Bit Less"
 
     [[podcasts.starred]]
@@ -196,6 +199,12 @@ rss = "https://feeds.npr.org/510289/podcast.xml"
     name = "How to fight a squatting goat"
 
     [[podcasts.starred]]
+    name = "How the cookie became a monster"
+
+    [[podcasts.starred]]
+    name = "Banque Worms"
+
+    [[podcasts.starred]]
     name = "Hollywood's Black List"
 
     [[podcasts.starred]]
@@ -323,6 +332,9 @@ rss = "https://feeds.simplecast.com/BqbsxVfO"
     name = "428- Beneath the Skyway"
 
     [[podcasts.starred]]
+    name = "415- Goodnight Nobody"
+
+    [[podcasts.starred]]
     name = "347- The Many Deaths of a Painting"
 
     [[podcasts.starred]]
@@ -350,6 +362,12 @@ rss = "https://feeds.simplecast.com/BqbsxVfO"
 name = "Criminal"
 url = "https://thisiscriminal.com/"
 rss = "https://feeds.megaphone.fm/VMP7924981569"
+
+    [[podcasts.starred]]
+    name = "Episode 78: The Botanist"
+
+    [[podcasts.starred]]
+    name = "Bonus Episode: Like a Page from a Book"
 
     [[podcasts.starred]]
     name = "Episode 65: The Kingfish"
@@ -537,6 +555,18 @@ rss = "https://feeds.acast.com/public/shows/5fc574d8d429ec34a8292b1c"
     name = "Egbert v. Boule"
 
     [[podcasts.starred]]
+    name = "Flood v. Kuhn"
+
+    [[podcasts.starred]]
+    name = "Nielsen v. Preap"
+
+    [[podcasts.starred]]
+    name = "Bennis v. Michigan"
+
+    [[podcasts.starred]]
+    name = "Voting Rights"
+
+    [[podcasts.starred]]
     name = "Federal Election Commission v. Ted Cruz for Senate"
 
     [[podcasts.starred]]
@@ -555,6 +585,9 @@ rss = "https://feeds.acast.com/public/shows/5fc574d8d429ec34a8292b1c"
 name = "The Memory Palace"
 url = "https://thememorypalace.us/"
 rss = "http://feeds.thememorypalace.us/thememorypalace"
+
+    [[podcasts.starred]]
+    name = "Episode 82 (The Wheel)"
 
     [[podcasts.starred]]
     name = "Episode 44 (Distance)"
@@ -585,6 +618,9 @@ rss = "https://feeds.megaphone.fm/BLU4811105299"
 name = "People I (Mostly) Admire"
 url = "https://freakonomics.com/series/people-i-mostly-admire/"
 rss = "https://feeds.simplecast.com/rP60Wf24"
+
+    [[podcasts.starred]]
+    name = "84. Yuval Noah Harari Thinks Life Is Meaningless and Amazing"
 
 [[podcasts]]
 name = "Hidden Brain"
