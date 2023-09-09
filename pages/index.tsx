@@ -4,7 +4,13 @@ import ExportedImage from "next-image-export-optimizer";
 
 import styles from "../styles/Home.module.css";
 
-export default function Home(props) {
+export default function Home(props: {
+  podcasts: {
+    name: string;
+    url: string;
+    starred: string[] | null;
+  }[];
+}) {
   const podcasts = props.podcasts;
   return (
     <div className={styles.container}>
@@ -50,12 +56,12 @@ export default function Home(props) {
 
 import { promises as fs } from "fs";
 import path from "path";
-const TOML = require("@iarna/toml");
+import TOML from "@iarna/toml";
 
 export async function getStaticProps() {
   const libraryPath = path.join(process.cwd(), "data/library.toml");
   const tomlData = await fs.readFile(libraryPath);
-  const library = await TOML.parse.async(tomlData);
+  const library = await TOML.parse.async(tomlData.toString());
 
   return { props: library };
 }
