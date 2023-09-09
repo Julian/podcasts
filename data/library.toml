@@ -46,7 +46,7 @@ rss = "https://feeds.simplecast.com/Y8lFbOT4"
     name = "That's a Great Question (Ep. 192 Rebroadcast)"
 
     [[podcasts.starred]]
-    name = "454. Should Traffic Lights Be Abolished?"
+    name = "Should Traffic Lights Be Abolished?"
 
     [[podcasts.starred]]
     name = "450. How to Be Better at Death"
@@ -91,6 +91,9 @@ rss = "https://feeds.simplecast.com/Y8lFbOT4"
 name = "My Favorite Theorem"
 url = "https://kpknudson.com/my-favorite-theorem"
 rss = "https://kpknudson.com/my-favorite-theorem?format=rss"
+
+    [[podcasts.starred]]
+    name = "Episode 86 - Sarah Hart"
 
     [[podcasts.starred]]
     name = "Episode 62 - Tai-Danae Bradley"
@@ -185,6 +188,9 @@ rss = "https://feeds.simplecast.com/Bx9_hnJH"
 name = "Planet Money"
 url = "https://www.npr.org/podcasts/510289/planet-money"
 rss = "https://feeds.npr.org/510289/podcast.xml"
+
+    [[podcasts.starred]]
+    name = "Did two honesty researchers fabricate their data?"
 
     [[podcasts.starred]]
     name = "The town that changed economics"
@@ -303,6 +309,9 @@ rss = "https://www.erikseligman.com/mm/MM_RSS_feed.xml"
 name = "99% Invisible"
 url = "https://99percentinvisible.org/"
 rss = "https://feeds.simplecast.com/BqbsxVfO"
+
+    [[podcasts.starred]]
+    name = "547- Cooking with Gas"
 
     [[podcasts.starred]]
     name = "535- Craptions"
@@ -610,6 +619,9 @@ rss = "http://vimcasts.org/feeds/itunes.xml"
 name = "Perpetual Chess Podcast"
 url = "https://www.perpetualchesspod.com/"
 rss = "https://feeds.megaphone.fm/BLU4811105299"
+
+    [[podcasts.starred]]
+    name = "EP.343- Rating Deflation Roundtable"
 
     [[podcasts.starred]]
     name = "EP.36 - IM Eric Rosen"
