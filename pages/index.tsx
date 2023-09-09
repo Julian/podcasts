@@ -26,7 +26,7 @@ export default function Home(props: Library) {
               <p>
                 Lorem ipsum dolor my teeth.
                 <button type="button" className={styles.starred}>
-                  {(podcast.starred || []).length} ★
+                  {(podcast.starred ?? []).length} ★
                 </button>
               </p>
             </a>
@@ -67,5 +67,5 @@ export interface Library {
 export interface Podcast {
   name: string;
   url: string;
-  starred: string[] | null;
+  starred?: string[];
 }
