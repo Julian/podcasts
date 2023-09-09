@@ -4,13 +4,7 @@ import ExportedImage from "next-image-export-optimizer";
 
 import styles from "../styles/Home.module.css";
 
-export default function Home(props: {
-  podcasts: {
-    name: string;
-    url: string;
-    starred: string[] | null;
-  }[];
-}) {
+export default function Home(props: Library) {
   const podcasts = props.podcasts;
   return (
     <div className={styles.container}>
@@ -64,4 +58,14 @@ export async function getStaticProps() {
   const library = await TOML.parse.async(tomlData.toString());
 
   return { props: library };
+}
+
+export interface Library {
+  podcasts: Podcast[];
+}
+
+export interface Podcast {
+  name: string;
+  url: string;
+  starred: string[] | null;
 }
