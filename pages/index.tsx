@@ -20,17 +20,20 @@ export default function Home(props: Library) {
         <p className={styles.description}>Library</p>
 
         <div className={styles.grid}>
-          {podcasts.map((podcast) => (
-            <a key={podcast.name} href={podcast.url} className={styles.card}>
-              <h2>{podcast.name}</h2>
-              <p>
-                Lorem ipsum dolor my teeth.
-                <button type="button" className={styles.starred}>
-                  {(podcast.starred ?? []).length} ★
-                </button>
-              </p>
-            </a>
-          ))}
+          {podcasts
+            .slice()
+            .sort((a, b) => (b.starred?.length || 0) - (a.starred?.length || 0))
+            .map((podcast) => (
+              <a key={podcast.name} href={podcast.url} className={styles.card}>
+                <h2>{podcast.name}</h2>
+                <p>
+                  Lorem ipsum dolor my teeth.
+                  <button type="button" className={styles.starred}>
+                    {(podcast.starred ?? []).length} ★
+                  </button>
+                </p>
+              </a>
+            ))}
         </div>
       </main>
 
