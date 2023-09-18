@@ -38,8 +38,8 @@ devDependencies:
     specifier: ^1.0.4
     version: 1.0.4
   string-strip-html:
-    specifier: ^13.4.2
-    version: 13.4.2
+    specifier: ^13.4.3
+    version: 13.4.3
   typescript:
     specifier: ^5.2.2
     version: 5.2.2
@@ -559,8 +559,8 @@ packages:
   /client-only@0.0.1:
     resolution: {integrity: sha512-IV3Ou0jSMzZrd3pZ48nLkT9DA7Ag1pnPzaiQhpW7c3RbcqqzvzzVu+L8gfqMp/8IM2MQtSiqaCxrrcfu8I8rMA==}
 
-  /codsen-utils@1.6.1:
-    resolution: {integrity: sha512-ScCWKPLAuN392DLmcgcj/CvV4kWrCoHgS5bDLQAkn5Eq9a6W/V1DAAUmEc9eezw3RDelDc/KTBOV/bSS3V9ssw==}
+  /codsen-utils@1.6.2:
+    resolution: {integrity: sha512-L+Cn6c/q0m3nHT6inNIKO1E+BHzeJ1b6McBQLcHvq46gYt7RSPEjYqmq0P5LWZsz+hb+w0tS5WkH6hRvZeHz2A==}
     engines: {node: '>=14.18.0'}
     dependencies:
       rfdc: 1.3.0
@@ -2127,34 +2127,34 @@ packages:
     resolution: {integrity: sha512-kJt5qhMxoszgU/62PLP1CJytzd2NKetjSRnyuj31fDd3Rlcz3fzlFdFLD1SItunPwyqEOkca6GbV612BWfaBag==}
     dev: true
 
-  /ranges-apply@7.0.11:
-    resolution: {integrity: sha512-+GPUCL1AnT+g2nlhRUOxAEP3VdlClOC+jurOT4eZ82MDP4zMx0gxHLLfXSX7CDHBJ56V+zWHYryowZQ6r+DhMA==}
+  /ranges-apply@7.0.12:
+    resolution: {integrity: sha512-RsdQnaC0pU+KV69muxE47NMhLCz9XHj3aAL/ykBtUXhtFWaq2/KXWM0wVXCYkBD/lIQRU1ZJhBla4LZPH2ywRQ==}
     engines: {node: '>=14.18.0'}
     dependencies:
-      ranges-merge: 9.0.11
+      ranges-merge: 9.0.12
       tiny-invariant: 1.3.1
     dev: true
 
-  /ranges-merge@9.0.11:
-    resolution: {integrity: sha512-You+Xt4z18eAM4jYGMdbHvLVrydiAXu/5anC2zgZ1phmuaT8lYV65F5mEG8GrKE25CtzCvZ9Rbl7rrJ5vPHh2g==}
+  /ranges-merge@9.0.12:
+    resolution: {integrity: sha512-Asg92aN9sZebnKu79bAlmU+kcHL9hcQZJ4q1WLX2h65ydKfAVtHZp3KhOT4eBCb+G7cSCHUSSK0hqzd/p02ydA==}
     engines: {node: '>=14.18.0'}
     dependencies:
-      ranges-push: 7.0.11
-      ranges-sort: 6.0.9
+      ranges-push: 7.0.12
+      ranges-sort: 6.0.10
     dev: true
 
-  /ranges-push@7.0.11:
-    resolution: {integrity: sha512-KEmPQD3Izzu5TxR42ntAtZLjM1g5kx+IOS+me9pF46VrqKOpDJDHY7JHsBmZ6iVlw1jC95ziq8+OF+yzXCzuuw==}
+  /ranges-push@7.0.12:
+    resolution: {integrity: sha512-Jwr/rCIAitwuT+dodq9ISZa09WWWua/mRud4OXPiwA+D7GxObsGgsSkf/v62h6zDxGPJkCuEpryKoOg90sbU6A==}
     engines: {node: '>=14.18.0'}
     dependencies:
-      codsen-utils: 1.6.1
-      ranges-sort: 6.0.9
+      codsen-utils: 1.6.2
+      ranges-sort: 6.0.10
       string-collapse-leading-whitespace: 7.0.6
-      string-trim-spaces-only: 5.0.8
+      string-trim-spaces-only: 5.0.9
     dev: true
 
-  /ranges-sort@6.0.9:
-    resolution: {integrity: sha512-KJsp43phcq1XI+0NBfINBpST7LFLrgxduDjpVm7X7Awgg3b5D4GQPj7E7nHIU+wD7lEQmX85g3sRPjWtlWsO/w==}
+  /ranges-sort@6.0.10:
+    resolution: {integrity: sha512-Tts5PiQQW+M8jMIkE/y0VdF5+GYFlv85qYAfQUBtekORbNn+7IVD+wPLJZ3LmfJSFJz/Jm3Wlgz+OpAeeHr5PA==}
     engines: {node: '>=14.18.0'}
     dev: true
 
@@ -2392,29 +2392,29 @@ packages:
     engines: {node: '>=14.18.0'}
     dev: true
 
-  /string-left-right@6.0.14:
-    resolution: {integrity: sha512-ixEvuKGjrwsbV7TNaA7XU26K5Zx7xuhQtlUA6GM19k/zeh7AuE9vkiThe9Sa3WI6M5St2pi57XNlclrvOyR38Q==}
+  /string-left-right@6.0.15:
+    resolution: {integrity: sha512-f80yIZCFZJnZcnCp8/Mk9zYRs210LHCkpNy668wusUzuh6qhryLA/SfxbFayxnFN12xdPARAvObu/wzYKX57wA==}
     engines: {node: '>=14.18.0'}
     dependencies:
-      codsen-utils: 1.6.1
+      codsen-utils: 1.6.2
       rfdc: 1.3.0
     dev: true
 
-  /string-strip-html@13.4.2:
-    resolution: {integrity: sha512-xkASShgDK6fQc1puILy2UoUh/LqiaSxJpmPLT4fmLs2zhBxUzgceIiNqvxw8CLTsePlyBL3TzcpE7x4GmzPrFA==}
+  /string-strip-html@13.4.3:
+    resolution: {integrity: sha512-9ketPUGy6MWmHy5tZuy1LSXcEB690MCQ0eTvUlunCjCGGTIUjboHyFa/PADndYHlfvHDcdO9iwzqjheXI/K/jw==}
     engines: {node: '>=14.18.0'}
     dependencies:
       '@types/lodash-es': 4.17.9
-      codsen-utils: 1.6.1
+      codsen-utils: 1.6.2
       html-entities: 2.4.0
       lodash-es: 4.17.21
-      ranges-apply: 7.0.11
-      ranges-push: 7.0.11
-      string-left-right: 6.0.14
+      ranges-apply: 7.0.12
+      ranges-push: 7.0.12
+      string-left-right: 6.0.15
     dev: true
 
-  /string-trim-spaces-only@5.0.8:
-    resolution: {integrity: sha512-dIiNcnxFglnihq30elOf4JFLeJrSQHtm7FocUDc8oTy/R9woUzSK3H4F6U8cqqmMxyjGS9un68/xYvDM4rDDjw==}
+  /string-trim-spaces-only@5.0.9:
+    resolution: {integrity: sha512-Yl/Ot+1YksCi2PI+I4nw6Mq2U2QV7vsCWFT+1lfWoFGYVS/27JmtWvueYiQW0YTPX4xz4DhV2cQijDakIPTWGg==}
     engines: {node: '>=14.18.0'}
     dev: true
 
