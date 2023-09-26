@@ -1,10 +1,15 @@
 import Head from "next/head";
 
 import ExportedImage from "next-image-export-optimizer";
-import { getPodcastFromURL } from "podcast-feed-parser";
+import _fetch from "node-fetch";
+import { parseFeed } from "podcast-partytime";
 import { stripHtml } from "string-strip-html";
 
 import styles from "../styles/Home.module.css";
+
+function fetch(url: string) {
+  return _fetch(url, { headers: { "User-Agent": "Julian/podcasts" } });
+}
 
 export default function Home(props: {
   library: Library;
@@ -34,7 +39,7 @@ export default function Home(props: {
                 <h2>{podcast.name}</h2>
                 {fetched[podcast?.rss] ? (
                   <ExportedImage
-                    src={fetched[podcast.rss].imageURL}
+                    src={fetched[podcast.rss].image || ""}
                     alt={podcast.name}
                     width={150}
                     height={150}
@@ -83,11 +88,12 @@ export async function getStaticProps() {
     if (podcast.rss === undefined) {
       return null;
     }
-    const info = await getPodcastFromURL(podcast.rss);
+    const response = await fetch(podcast.rss);
+    const info = parseFeed(await response.text());
     fetched[podcast.rss] = {
-      summary: info.meta?.summary ? stripHtml(info.meta.summary).result : null,
-      imageURL: info.meta.imageURL,
-      lastUpdated: info.meta.lastUpdated ?? null,
+      summary: info?.summary ? stripHtml(info.summary).result : null,
+      image: info?.image?.url ?? null,
+      lastUpdate: info?.lastUpdate?.toJSON() ?? null,
     };
   });
 
@@ -114,6 +120,6 @@ export interface Podcast {
 
 export interface FetchedPodcast {
   summary: string | null;
-  imageURL: string;
-  lastUpdated?: string;
+  image?: string | null;
+  lastUpdate: string | null;
 }
