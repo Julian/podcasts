@@ -38,8 +38,8 @@ devDependencies:
     specifier: ^3.3.2
     version: 3.3.2
   podcast-partytime:
-    specifier: ^4.6.1
-    version: 4.6.1
+    specifier: ^4.6.2
+    version: 4.6.2
   string-strip-html:
     specifier: ^13.4.3
     version: 13.4.3
@@ -2034,8 +2034,8 @@ packages:
       thread-stream: 0.15.2
     dev: true
 
-  /podcast-partytime@4.6.1:
-    resolution: {integrity: sha512-bMZ1ZArRHZId4FJPsZ+2LwPQqAAhChGRuz23S0V4phuJ8K/dkI0NAwO6IPfHVvD9osNMA0rf98XrswPI58Wgiw==}
+  /podcast-partytime@4.6.2:
+    resolution: {integrity: sha512-u57GSG7+5xjKy8uDU/k30NDIT/BizhkuolyaEvJQkufI5VQUiMEyA1lDPzPUW6e+QqKxWlaTs1paMRibRTqgvQ==}
     dependencies:
       dotenv: 10.0.0
       fast-xml-parser: 3.21.1
