@@ -21,7 +21,7 @@
     "eslint-config-next": "13.5.4",
     "next-image-export-optimizer": "^1.8.7",
     "node-fetch": "^3.3.2",
-    "podcast-partytime": "^4.6.2",
+    "podcast-partytime": "^4.6.3",
     "string-strip-html": "^13.4.3",
     "typescript": "^5.2.2"
   }
