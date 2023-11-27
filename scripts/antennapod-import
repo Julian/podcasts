@@ -1,0 +1,71 @@
+#!/usr/bin/env python3
+"""
+Show any discrepancies between an AntennaPod backup DB and our TOML library.
+
+Usage:
+
+    $ antennapod-import ~/Desktop/AntennaPodBackup-2023-11-26.db
+"""
+
+from pathlib import Path
+import sqlite3
+import re
+import sys
+import tomllib
+
+
+DATA = Path(__file__).parent.parent / "data"
+LIBRARY = tomllib.loads(DATA.joinpath("library.toml").read_text())["podcasts"]
+STARRED = {
+    each["name"]: {star["name"].casefold() for star in each.get("starred", [])}
+    for each in LIBRARY
+}
+
+
+DUMB_QUOTES = str.maketrans(
+    {
+        "“": '"',
+        "”": '"',
+        "’": "'",
+    }
+)
+
+TIDIED_NAMES = {
+    "Freakonomics Radio": "Freakonomics",
+    "the memory palace": "The Memory Palace",
+}
+
+OPEN, CLOSE = r"\s*[(\[]\s*", r"\s*[)\]]\s*"
+REPLAY = "|".join(
+    ["classic", "encore", "rebroadcast", "replay", "repost", "update"],
+)
+TRIMMED = re.compile(fr"{OPEN}(?:ep\.? \d+\s+)?(?:{REPLAY}){CLOSE}$")
+
+
+with sqlite3.connect(sys.argv[1]) as conn:
+    favorites = conn.execute(
+        """
+        SELECT Feeds.title, FeedItems.title
+        FROM Favorites
+        JOIN Feeds ON Favorites.feed == Feeds.id
+        JOIN FeedItems ON Favorites.feeditem == FeedItems.id
+        ORDER BY FeedItems.pubDate DESC;
+        """
+    )
+
+    for feed, episode in favorites:
+        podcast = TIDIED_NAMES.get(feed, feed)
+
+        normalized = TRIMMED.sub(
+            "",
+            episode.strip().casefold().translate(DUMB_QUOTES),
+        )
+
+        try:
+            STARRED[podcast].remove(normalized)
+        except KeyError:
+            print(podcast, episode, normalized)
+#
+# for podcast, starred in STARRED.items():
+#     if starred:
+#         print("EXTRA", podcast, starred)

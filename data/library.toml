@@ -4,16 +4,22 @@ url = "https://freakonomics.com/series/freakonomics-radio/"
 rss = "https://feeds.simplecast.com/Y8lFbOT4"
 
     [[podcasts.starred]]
+    name = "558. The Facts Are In: Two Parents Are Better Than One"
+
+    [[podcasts.starred]]
+    name = "557. When Is a Superstar Just Another Employee?"
+
+    [[podcasts.starred]]
     name = "Why Did You Marry That Person?"
 
     [[podcasts.starred]]
     name = "How to Hate Taxes a Little Bit Less"
 
     [[podcasts.starred]]
-    name = "Make Me a Match (Ep. 209 Update)"
+    name = "Make Me a Match"
 
     [[podcasts.starred]]
-    name = "Why Your Projects Are Always Late - and What to Do About It"
+    name = "Why Your Projects Are Always Late — and What to Do About It"
 
     [[podcasts.starred]]
     name = "545. Enough With the Slippery Slopes!"
@@ -34,7 +40,7 @@ rss = "https://feeds.simplecast.com/Y8lFbOT4"
     name = "506. What Is Sportswashing (and Does It Work)?"
 
     [[podcasts.starred]]
-    name = "How to Change Your Mind (Ep. 379 Update)"
+    name = "How to Change Your Mind"
 
     [[podcasts.starred]]
     name = "495. Why Are There So Many Bad Bosses?"
@@ -43,7 +49,10 @@ rss = "https://feeds.simplecast.com/Y8lFbOT4"
     name = "494. Why Do Most Ideas Fail to Scale?"
 
     [[podcasts.starred]]
-    name = "That's a Great Question (Ep. 192 Rebroadcast)"
+    name = "Everything You Always Wanted to Know About Money (But Were Afraid to Ask)"
+
+    [[podcasts.starred]]
+    name = "That's a Great Question!"
 
     [[podcasts.starred]]
     name = "Should Traffic Lights Be Abolished?"
@@ -52,40 +61,46 @@ rss = "https://feeds.simplecast.com/Y8lFbOT4"
     name = "450. How to Be Better at Death"
 
     [[podcasts.starred]]
-    name = "Why Does Tipping Still Exist?"
+    name = "396. Why Does Tipping Still Exist?"
 
     [[podcasts.starred]]
-    name = "Pick of the Week: What Does a C.E.O. Actually Do (Ep. 314)"
+    name = "314. What Does a C.E.O. Actually Do?"
 
     [[podcasts.starred]]
     name = "How Stupid is Our Obsession With Lawns?"
 
     [[podcasts.starred]]
-    name = "Here's Why All Your Projects Are Always Late – and What to Do About It"
+    name = "Does \"Early Education\" Come Way Too Late?"
 
     [[podcasts.starred]]
-    name = "Does Early Education Come Way Too Late?"
+    name = "317. What Can Uber Teach Us About the Gender Pay Gap?"
 
     [[podcasts.starred]]
-    name = "What Can Uber Teach Us About the Gender Pay Gap?"
-
-    [[podcasts.starred]]
-    name = "Evolution Accelerated"
+    name = "291. Evolution, Accelerated"
 
     [[podcasts.starred]]
     name = "How to Become Great at Just About Anything"
 
     [[podcasts.starred]]
-    name = "How to Make a Bad Decision"
+    name = "267. How to Make a Bad Decision"
 
     [[podcasts.starred]]
-    name = "Why Doesn't Everyone Get the Flu Vaccine?"
+    name = "191. Why Doesn't Everyone Get the Flu Vaccine?"
 
     [[podcasts.starred]]
-    name = "How Can Tiny Norway Afford to Buy So Many Teslas?"
+    name = "182. How Can Tiny Norway Afford to Buy So Many Teslas?"
 
     [[podcasts.starred]]
-    name = "Fixing the World, Bang-for-the-Buck Edition"
+    name = "181. Fixing the World, Bang-for-the-Buck Edition"
+
+    [[podcasts.starred]]
+    name = "4. Faking It"
+
+    [[podcasts.starred]]
+    name = "3. What Would the World Look Like if Economists Were in Charge?"
+
+    [[podcasts.starred]]
+    name = "2. Is America's Obesity Epidemic For Real?"
 
 [[podcasts]]
 name = "My Favorite Theorem"
@@ -226,10 +241,10 @@ rss = "https://feeds.npr.org/510289/podcast.xml"
     name = "Spam call bounty hunter"
 
     [[podcasts.starred]]
-    name = "The tale of the Onion King (Update)"
+    name = "The tale of the Onion King"
 
     [[podcasts.starred]]
-    name = "Peanuts and Cracker Jack (Classic)"
+    name = "Peanuts and Cracker Jack"
 
     [[podcasts.starred]]
     name = "SUMMER SCHOOL 1: The Stock Market & Penelope The Cow"
@@ -279,6 +294,9 @@ url = "https://mathmutation.blogspot.com/"
 rss = "https://www.erikseligman.com/mm/MM_RSS_feed.xml"
 
     [[podcasts.starred]]
+    name = "Math Mutation 287: The Grim State of Modern Pizza"
+
+    [[podcasts.starred]]
     name = "Math Mutation 230: Just Say The Dog Ate It"
 
     [[podcasts.starred]]
@@ -311,7 +329,13 @@ url = "https://99percentinvisible.org/"
 rss = "https://feeds.simplecast.com/BqbsxVfO"
 
     [[podcasts.starred]]
+    name = "556- You Ain't Nothin But a Postmark"
+
+    [[podcasts.starred]]
     name = "547- Cooking with Gas"
+
+    [[podcasts.starred]]
+    name = "541- The Frankfurt Kitchen"
 
     [[podcasts.starred]]
     name = "535- Craptions"
@@ -541,6 +565,36 @@ rss = "https://feeds.feedburner.com/otm_tldr"
 name = "5-4"
 url = "https://www.fivefourpod.com/"
 rss = "https://feeds.acast.com/public/shows/5fc574d8d429ec34a8292b1c"
+
+    [[podcasts.starred]]
+    name = "Florida v. Riley"
+
+    [[podcasts.starred]]
+    name = "Town of Greece v. Galloway"
+
+    [[podcasts.starred]]
+    name = "Younger v. Harris"
+
+    [[podcasts.starred]]
+    name = "Nieves v. Bartlett"
+
+    [[podcasts.starred]]
+    name = "Smith v. Maryland"
+
+    [[podcasts.starred]]
+    name = "Wal-Mart Stores, Inc. v. Dukes"
+
+    [[podcasts.starred]]
+    name = "Bowles v. Russell"
+
+    [[podcasts.starred]]
+    name = "Connick v. Thompson"
+
+    [[podcasts.starred]]
+    name = "Navarette v. California"
+
+    [[podcasts.starred]]
+    name = "DC v. Heller"
 
     [[podcasts.starred]]
     name = "McDonnell v. United States"
