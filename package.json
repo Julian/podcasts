@@ -23,6 +23,6 @@
     "node-fetch": "^3.3.2",
     "podcast-partytime": "^4.7.0",
     "string-strip-html": "^13.4.3",
-    "typescript": "^5.2.2"
+    "typescript": "^5.3.2"
   }
 }
