@@ -8,6 +8,7 @@ Usage:
 """
 
 from pathlib import Path
+from pprint import pprint
 import sqlite3
 import re
 import sys
@@ -33,6 +34,7 @@ DUMB_QUOTES = str.maketrans(
 TIDIED_NAMES = {
     "Freakonomics Radio": "Freakonomics",
     "the memory palace": "The Memory Palace",
+    "HISTORIAS DE LA HISTORIA": "Historias de la Historia",
 }
 
 OPEN, CLOSE = r"\s*[(\[]\s*", r"\s*[)\]]\s*"
@@ -43,6 +45,10 @@ TRIMMED = re.compile(fr"{OPEN}(?:ep\.? \d+\s+)?(?:{REPLAY}){CLOSE}$")
 
 
 with sqlite3.connect(sys.argv[1]) as conn:
+    podcasts = conn.execute("SELECT title FROM Feeds")
+    tidied = {TIDIED_NAMES.get(name, name) for name, in podcasts}
+    pprint(tidied.symmetric_difference(STARRED))
+
     favorites = conn.execute(
         """
         SELECT Feeds.title, FeedItems.title
@@ -68,4 +74,4 @@ with sqlite3.connect(sys.argv[1]) as conn:
 #
 # for podcast, starred in STARRED.items():
 #     if starred:
-#         print("EXTRA", podcast, starred)
+#         pprint("EXTRA", podcast, starred)

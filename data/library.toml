@@ -4,6 +4,9 @@ url = "https://freakonomics.com/series/freakonomics-radio/"
 rss = "https://feeds.simplecast.com/Y8lFbOT4"
 
     [[podcasts.starred]]
+    name = "566. Why Is It So Hard (and Expensive) to Build Anything in America?"
+
+    [[podcasts.starred]]
     name = "558. The Facts Are In: Two Parents Are Better Than One"
 
     [[podcasts.starred]]
@@ -49,6 +52,12 @@ rss = "https://feeds.simplecast.com/Y8lFbOT4"
     name = "494. Why Do Most Ideas Fail to Scale?"
 
     [[podcasts.starred]]
+    name = "490. What Do Broken-Hearted Knitters, Urinating Goalkeepers, and the C.I.A. Have in Common?"
+
+    [[podcasts.starred]]
+    name = "This Is Your Brain on Pollution"
+
+    [[podcasts.starred]]
     name = "Everything You Always Wanted to Know About Money (But Were Afraid to Ask)"
 
     [[podcasts.starred]]
@@ -64,7 +73,7 @@ rss = "https://feeds.simplecast.com/Y8lFbOT4"
     name = "396. Why Does Tipping Still Exist?"
 
     [[podcasts.starred]]
-    name = "314. What Does a C.E.O. Actually Do?"
+    name = "323. Here's Why All Your Projects Are Always Late — and What to Do About It"
 
     [[podcasts.starred]]
     name = "How Stupid is Our Obsession With Lawns?"
@@ -74,6 +83,9 @@ rss = "https://feeds.simplecast.com/Y8lFbOT4"
 
     [[podcasts.starred]]
     name = "317. What Can Uber Teach Us About the Gender Pay Gap?"
+
+    [[podcasts.starred]]
+    name = "314. What Does a C.E.O. Actually Do?"
 
     [[podcasts.starred]]
     name = "291. Evolution, Accelerated"
@@ -106,6 +118,9 @@ rss = "https://feeds.simplecast.com/Y8lFbOT4"
 name = "My Favorite Theorem"
 url = "https://kpknudson.com/my-favorite-theorem"
 rss = "https://kpknudson.com/my-favorite-theorem?format=rss"
+
+    [[podcasts.starred]]
+    name = "Episode 89 - Allison Henrich"
 
     [[podcasts.starred]]
     name = "Episode 86 - Sarah Hart"
@@ -203,6 +218,9 @@ rss = "https://feeds.simplecast.com/Bx9_hnJH"
 name = "Planet Money"
 url = "https://www.npr.org/podcasts/510289/planet-money"
 rss = "https://feeds.npr.org/510289/podcast.xml"
+
+    [[podcasts.starred]]
+    name = "What econ says in the shadows"
 
     [[podcasts.starred]]
     name = "Did two honesty researchers fabricate their data?"
@@ -329,6 +347,9 @@ url = "https://99percentinvisible.org/"
 rss = "https://feeds.simplecast.com/BqbsxVfO"
 
     [[podcasts.starred]]
+    name = "560- Home on the Range"
+
+    [[podcasts.starred]]
     name = "556- You Ain't Nothin But a Postmark"
 
     [[podcasts.starred]]
@@ -395,6 +416,9 @@ rss = "https://feeds.simplecast.com/BqbsxVfO"
 name = "Criminal"
 url = "https://thisiscriminal.com/"
 rss = "https://feeds.megaphone.fm/VMP7924981569"
+
+    [[podcasts.starred]]
+    name = "Episode 91: The \"It\" Girl"
 
     [[podcasts.starred]]
     name = "Episode 78: The Botanist"
@@ -495,37 +519,6 @@ rss = "https://feeds.simplecast.com/oM_1xVen"
     name = "Zero Knowledge Proofs and ZKDocs"
 
 [[podcasts]]
-name = "Arming the Donkeys"
-url = "https://archive.org/details/podcast_arming-donkeys_420535283"
-
-    [[podcasts.starred]]
-    name = "Imaginary Memories"
-
-    [[podcasts.starred]]
-    name = "The Search for Psychopaths"
-
-    [[podcasts.starred]]
-    name = "Who's to Blame?"
-
-    [[podcasts.starred]]
-    name = "Can Money Buy Happiness?"
-
-    [[podcasts.starred]]
-    name = "Cultures of Corruption"
-
-    [[podcasts.starred]]
-    name = "Pushing the Envelope"
-
-    [[podcasts.starred]]
-    name = "The \"Yes...Damn!\" Effect"
-
-    [[podcasts.starred]]
-    name = "Can Cheaters Beat the Market?"
-
-    [[podcasts.starred]]
-    name = "Are Apple Users More Creative?"
-
-[[podcasts]]
 name = "Tidbits of Research"
 url = "https://tidbitsofresearch.podbean.com/"
 rss = "https://feed.podbean.com/tidbitsofresearch/feed.xml"
@@ -565,6 +558,12 @@ rss = "https://feeds.feedburner.com/otm_tldr"
 name = "5-4"
 url = "https://www.fivefourpod.com/"
 rss = "https://feeds.acast.com/public/shows/5fc574d8d429ec34a8292b1c"
+
+    [[podcasts.starred]]
+    name = "Biden v. Nebraska"
+
+    [[podcasts.starred]]
+    name = "DeShaney v. Winnebago County Department of Social Services"
 
     [[podcasts.starred]]
     name = "Florida v. Riley"
@@ -645,6 +644,17 @@ rss = "https://feeds.acast.com/public/shows/5fc574d8d429ec34a8292b1c"
     name = "Bush v. Gore"
 
 [[podcasts]]
+name = "Opening Arguments"
+url = "https://openargs.com/"
+rss = "https://openargs.libsyn.com/"
+
+    [[podcasts.starred]]
+    name = "OA849: The Law Of New Year's!"
+
+    [[podcasts.starred]]
+    name = "OA836: Yes, A Court Found That Trump \"Incited An Insurrection\" - Now What? (feat. Seth Barrett Tillman)"
+
+[[podcasts]]
 name = "The Memory Palace"
 url = "https://thememorypalace.us/"
 rss = "http://feeds.thememorypalace.us/thememorypalace"
@@ -675,6 +685,9 @@ url = "https://www.perpetualchesspod.com/"
 rss = "https://feeds.megaphone.fm/BLU4811105299"
 
     [[podcasts.starred]]
+    name = "EP 361- Professor/ GM David Smerdon: Renewed Chess Cheating Allegations and the new \"Gender Equality in Chess Index.\""
+
+    [[podcasts.starred]]
     name = "EP.343- Rating Deflation Roundtable"
 
     [[podcasts.starred]]
@@ -687,6 +700,12 @@ rss = "https://feeds.simplecast.com/rP60Wf24"
 
     [[podcasts.starred]]
     name = "84. Yuval Noah Harari Thinks Life Is Meaningless and Amazing"
+
+    [[podcasts.starred]]
+    name = "11. Paul Romer: \"I Figured Out How to Get Myself Fired From the World Bank.\""
+
+    [[podcasts.starred]]
+    name = "10. Suzanne Gluck: \"I'm a Person Who Can Convince Other People to Do Things\""
 
 [[podcasts]]
 name = "Hidden Brain"
@@ -742,9 +761,14 @@ url = "https://www.thetalkingmachines.com/home"
 rss = "https://www.omnycontent.com/d/playlist/aaea4e69-af51-495e-afc9-a9760146922b/b92baa3c-b9c8-488c-aa9e-aafd001cbf66/12abbc3c-ae53-487a-b83b-aafd001cbf79/podcast.rss"
 
 [[podcasts]]
-name = "Breaking Changes"
-url = "https://www.postman.com/events/breaking-changes/"
-rss = "https://feed.podbean.com/breakingchanges/feed.xml"
+name = "No Stupid Questions"
+url = "https://freakonomics.com/series/nsq/"
+rss = "https://feeds.simplecast.com/dfh_verV"
+
+[[podcasts]]
+name = "Omnibus"
+url = "https://www.omnibusproject.com"
+rss = "https://www.omnibusproject.com/rss"
 
 [[podcasts]]
 name = "Lexicon Valley"
@@ -801,10 +825,6 @@ rss = "https://nocturnepodcast.org/feed/podcast"
 name = "The Distance"
 url = "https://thedistance.basecamp.com/"
 rss = "https://feeds.transistor.fm/the-distance"
-
-[[podcasts]]
-name = "Ben, Ben and Blue"
-url = "https://benbenandblue.com"
 
 [[podcasts]]
 name = "Italiano Piano Piano"
@@ -894,6 +914,11 @@ url = "https://www.npr.org/series/490248027/how-i-built-this"
 rss = "https://rss.art19.com/how-i-built-this"
 
 [[podcasts]]
+name = "Lateral with Tom Scott"
+url = "https://lateralcast.com/"
+rss = "https://feeds.megaphone.fm/lateralcast"
+
+[[podcasts]]
 name = "The Problem With Jon Stewart"
 url = "https://www.theproblem.com/"
 rss = "https://rss.art19.com/the-problem-with-jon-stewart"
@@ -971,3 +996,38 @@ rss = "https://feeds.simplecast.com/wgl4xEgL"
 name = "Historias de la Historia"
 url = "https://historiasdelahistoria.com/"
 rss = "https://www.ivoox.com/historias-de-la-historia_fg_f1111785_filtro_1.xml"
+
+[[podcasts]]
+name = "Arming the Donkeys"
+url = "https://archive.org/details/podcast_arming-donkeys_420535283"
+
+    [[podcasts.starred]]
+    name = "Imaginary Memories"
+
+    [[podcasts.starred]]
+    name = "The Search for Psychopaths"
+
+    [[podcasts.starred]]
+    name = "Who's to Blame?"
+
+    [[podcasts.starred]]
+    name = "Can Money Buy Happiness?"
+
+    [[podcasts.starred]]
+    name = "Cultures of Corruption"
+
+    [[podcasts.starred]]
+    name = "Pushing the Envelope"
+
+    [[podcasts.starred]]
+    name = "The \"Yes...Damn!\" Effect"
+
+    [[podcasts.starred]]
+    name = "Can Cheaters Beat the Market?"
+
+    [[podcasts.starred]]
+    name = "Are Apple Users More Creative?"
+
+[[podcasts]]
+name = "Ben, Ben and Blue"
+url = "https://benbenandblue.com"
