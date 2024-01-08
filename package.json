@@ -22,7 +22,7 @@
     "next-image-export-optimizer": "^1.11.0",
     "node-fetch": "^3.3.2",
     "podcast-partytime": "^4.8.0",
-    "string-strip-html": "^13.4.4",
+    "string-strip-html": "^13.4.5",
     "typescript": "^5.3.3"
   }
 }
