@@ -4,6 +4,9 @@ url = "https://freakonomics.com/series/freakonomics-radio/"
 rss = "https://feeds.simplecast.com/Y8lFbOT4"
 
     [[podcasts.starred]]
+    name = "572. Why Is There So Much Fraud in Academia?"
+
+    [[podcasts.starred]]
     name = "566. Why Is It So Hard (and Expensive) to Build Anything in America?"
 
     [[podcasts.starred]]
@@ -220,6 +223,9 @@ url = "https://www.npr.org/podcasts/510289/planet-money"
 rss = "https://feeds.npr.org/510289/podcast.xml"
 
     [[podcasts.starred]]
+    name = "The Maine Potato War of 1976"
+
+    [[podcasts.starred]]
     name = "What econ says in the shadows"
 
     [[podcasts.starred]]
@@ -347,6 +353,9 @@ url = "https://99percentinvisible.org/"
 rss = "https://feeds.simplecast.com/BqbsxVfO"
 
     [[podcasts.starred]]
+    name = "564- Mini-Stories: Volume 17"
+
+    [[podcasts.starred]]
     name = "560- Home on the Range"
 
     [[podcasts.starred]]
@@ -445,6 +454,12 @@ rss = "https://feeds.megaphone.fm/VMP7924981569"
     name = "Episode 40: Pappy"
 
     [[podcasts.starred]]
+    name = "The Botanist"
+
+    [[podcasts.starred]]
+    name = "The \"It\" Girl"
+
+    [[podcasts.starred]]
     name = "Episode 15: He's Neutral"
 
 [[podcasts]]
@@ -519,6 +534,11 @@ rss = "https://feeds.simplecast.com/oM_1xVen"
     name = "Zero Knowledge Proofs and ZKDocs"
 
 [[podcasts]]
+name = "Rational Security"
+url = "https://www.lawfaremedia.org/podcasts-multimedia/podcast/rational-security"
+rss = "https://feeds.acast.com/public/shows/60427f9d34b9a27f4b6e3a8d"
+
+[[podcasts]]
 name = "Tidbits of Research"
 url = "https://tidbitsofresearch.podbean.com/"
 rss = "https://feed.podbean.com/tidbitsofresearch/feed.xml"
@@ -558,6 +578,12 @@ rss = "https://feeds.feedburner.com/otm_tldr"
 name = "5-4"
 url = "https://www.fivefourpod.com/"
 rss = "https://feeds.acast.com/public/shows/5fc574d8d429ec34a8292b1c"
+
+    [[podcasts.starred]]
+    name = "Glacier Northwest, Inc. v. International Brotherhood of Teamsters"
+
+    [[podcasts.starred]]
+    name = "Berghuis v. Thompkins"
 
     [[podcasts.starred]]
     name = "Biden v. Nebraska"
@@ -649,6 +675,12 @@ url = "https://openargs.com/"
 rss = "https://openargs.libsyn.com/"
 
     [[podcasts.starred]]
+    name = "OA854: Trump Lawyers Discover ONE WEIRD TRICK To Get Away With Murder! (Be President.)"
+
+    [[podcasts.starred]]
+    name = "OA852: Trump Asks SCOTUS To Put Him Back on the Colorado Ballot Despite 14th Amendment"
+
+    [[podcasts.starred]]
     name = "OA849: The Law Of New Year's!"
 
     [[podcasts.starred]]
@@ -738,7 +770,7 @@ url = "https://youmadeitweird.libsyn.com/"
 rss = "https://feeds.feedburner.com/YouMadeItWeird"
 
 [[podcasts]]
-name = "ערבית מדוברת עלא עיני ועלא ראסי"
+name = "ערבית מדוברת – עלא עיני ועלא ראסי"
 url = "https://www.lingolearn.co.il/%D7%9C%D7%9E%D7%93%D7%95-%D7%A9%D7%A4%D7%95%D7%AA/%D7%9C%D7%9C%D7%9E%D7%95%D7%93-%D7%A2%D7%A8%D7%91%D7%99%D7%AA-%D7%9E%D7%93%D7%95%D7%91%D7%A8%D7%AA/%D7%A4%D7%95%D7%93%D7%A7%D7%90%D7%A1%D7%98-%D7%A2%D7%A8%D7%91%D7%99%D7%AA-%D7%9E%D7%93%D7%95%D7%91%D7%A8%D7%AA/"
 rss = "https://feed.podbean.com/spokenarabic/feed.xml"
 
@@ -749,6 +781,9 @@ rss = "https://www.omnycontent.com/d/playlist/aaea4e69-af51-495e-afc9-a976014692
 
     [[podcasts.starred]]
     name = "Confabulation | V.S. Ramachandran"
+
+    [[podcasts.starred]]
+    name = "010 - Perversion"
 
 [[podcasts]]
 name = "Innovation Hub"
@@ -832,6 +867,11 @@ url = "https://italianopianopiano.blogspot.com/"
 rss = "https://www.ivoox.com/aprende-italiano-poco-a-poco-piano-piano_fg_f1633779_filtro_1.xml"
 
 [[podcasts]]
+name = "Podcast Italiano"
+url = "https://www.podcastitaliano.com/"
+rss = "https://podcasts.apple.com/us/podcast/podcast-italiano/id1163599279"
+
+[[podcasts]]
 name = "The Truth"
 url = "https://www.thetruthpodcast.com/"
 rss = "https://feeds.feedburner.com/thetruthapm"
@@ -902,6 +942,11 @@ rss = "https://www.nhk.or.jp/lesson/en/rss/podcast.xml"
 name = "The Indicator from Planet Money"
 url = "https://www.npr.org/podcasts/510325/the-indicator-from-planet-money"
 rss = "https://feeds.npr.org/510325/podcast.xml"
+
+[[podcasts]]
+name = "The Economics of Everyday Things"
+url = "https://freakonomics.com/series/everyday-things/"
+rss = "https://feeds.simplecast.com/ob9OSBIN"
 
 [[podcasts]]
 name = "Writing Excuses"

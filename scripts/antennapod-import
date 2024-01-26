@@ -33,8 +33,12 @@ DUMB_QUOTES = str.maketrans(
 
 TIDIED_NAMES = {
     "Freakonomics Radio": "Freakonomics",
-    "the memory palace": "The Memory Palace",
     "HISTORIAS DE LA HISTORIA": "Historias de la Historia",
+    "How I Built This with Guy Raz": "How I Built This",
+    "Software Engineering Radio - the podcast for professional software developers": "Software Engineering Radio",
+    "omega tau - English only": "Omega Tau",
+    "the memory palace": "The Memory Palace",
+    "ערבית מדוברת - עַלַא עֵינִי ועַלַא ראסִי": "ערבית מדוברת – עלא עיני ועלא ראסי",
 }
 
 OPEN, CLOSE = r"\s*[(\[]\s*", r"\s*[)\]]\s*"
