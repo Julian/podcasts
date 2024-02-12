@@ -32,8 +32,8 @@ devDependencies:
     specifier: 14.1.0
     version: 14.1.0(eslint@8.56.0)(typescript@5.3.3)
   next-image-export-optimizer:
-    specifier: ^1.12.2
-    version: 1.12.2(next@14.1.0)(react@18.2.0)
+    specifier: ^1.12.3
+    version: 1.12.3(next@14.1.0)(react@18.2.0)
   node-fetch:
     specifier: ^3.3.2
     version: 3.3.2
@@ -1973,8 +1973,8 @@ packages:
     resolution: {integrity: sha512-OWND8ei3VtNC9h7V60qff3SVobHr996CTwgxubgyQYEpg290h9J0buyECNNJexkFm5sOajh5G116RYA1c8ZMSw==}
     dev: true
 
-  /next-image-export-optimizer@1.12.2(next@14.1.0)(react@18.2.0):
-    resolution: {integrity: sha512-jMoVbGaNGG53GA9bwH2XlbCzCxs71VC6SCQWLPPTPhFrIYol2hoG7090qH09ZmXyKy2Tj3hpW3Mpu8UNYY6QIg==}
+  /next-image-export-optimizer@1.12.3(next@14.1.0)(react@18.2.0):
+    resolution: {integrity: sha512-BQ3LIN6ocooul10g+N/7jJljpionhhqR58RE0Z+uzJ/+NeRcK5hEjNZmmg8BGZB9M4JFLk8LzcvbYOkWPRjrNQ==}
     engines: {node: '>=16.0.0'}
     hasBin: true
     peerDependencies:
