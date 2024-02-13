@@ -4,6 +4,9 @@ url = "https://freakonomics.com/series/freakonomics-radio/"
 rss = "https://feeds.simplecast.com/Y8lFbOT4"
 
     [[podcasts.starred]]
+    name = "The Curious Mr. Feynman"
+
+    [[podcasts.starred]]
     name = "572. Why Is There So Much Fraud in Academia?"
 
     [[podcasts.starred]]
@@ -353,6 +356,9 @@ url = "https://99percentinvisible.org/"
 rss = "https://feeds.simplecast.com/BqbsxVfO"
 
     [[podcasts.starred]]
+    name = "567- The Double Kick"
+
+    [[podcasts.starred]]
     name = "564- Mini-Stories: Volume 17"
 
     [[podcasts.starred]]
@@ -670,6 +676,14 @@ rss = "https://feeds.acast.com/public/shows/5fc574d8d429ec34a8292b1c"
     name = "Bush v. Gore"
 
 [[podcasts]]
+name = "If Books Could Kill"
+url = "https://www.patreon.com/IfBooksPod"
+rss = "https://feeds.buzzsprout.com/2040953.rss"
+
+    [[podcasts.starred]]
+    name = "Malcolm Gladwell's \"Outliers\""
+
+[[podcasts]]
 name = "Opening Arguments"
 url = "https://openargs.com/"
 rss = "https://openargs.libsyn.com/"
@@ -724,6 +738,11 @@ rss = "https://feeds.megaphone.fm/BLU4811105299"
 
     [[podcasts.starred]]
     name = "EP.36 - IM Eric Rosen"
+
+[[podcasts]]
+name = "C-Squared Podcast"
+url = "https://www.youtube.com/@csqpod"
+rss = "https://media.rss.com/csquared/feed.xml"
 
 [[podcasts]]
 name = "People I (Mostly) Admire"

@@ -74,7 +74,7 @@ with sqlite3.connect(sys.argv[1]) as conn:
         try:
             STARRED[podcast].remove(normalized)
         except KeyError:
-            print(podcast, episode, normalized)
+            print(podcast, episode)
 #
 # for podcast, starred in STARRED.items():
 #     if starred:
