@@ -41,8 +41,8 @@ devDependencies:
     specifier: ^4.8.0
     version: 4.8.0
   string-strip-html:
-    specifier: ^13.4.6
-    version: 13.4.6
+    specifier: ^13.4.7
+    version: 13.4.7
   typescript:
     specifier: ^5.4.3
     version: 5.4.3
@@ -1624,8 +1624,8 @@ packages:
     hasBin: true
     dev: true
 
-  /html-entities@2.4.0:
-    resolution: {integrity: sha512-igBTJcNNNhvZFRtm8uA6xMY6xYleeDwn3PeBCkDz7tHttv4F2hsDI2aPgNERWzvRcNYHNT3ymRaQzllmXj4YsQ==}
+  /html-entities@2.5.2:
+    resolution: {integrity: sha512-K//PSRMQk4FZ78Kyau+mZurHn3FH0Vwr+H36eE0rPbeYkRRi9YxceYPhuN60UwWorxyKHhqoAJl2OFKa4BVtaA==}
     dev: true
 
   /ignore@5.3.1:
@@ -2319,12 +2319,12 @@ packages:
     resolution: {integrity: sha512-SbiLPU40JuJniHexQSAgad32hfwd+DRUdwF2PlVuI5RZD0/vahUco7R8vD86J/tcEKKF9vZrUVwgtmGCqlCKyA==}
     dev: true
 
-  /ranges-apply@7.0.15:
-    resolution: {integrity: sha512-YMYWexEb5+irsSRGCV4JnWflhc5TvMNbaZrqNTXQYD6vA6hk60CrPZyd5bxTUoZ8Phd1v80UIQJCoxh+bSiHdg==}
+  /ranges-apply@7.0.16:
+    resolution: {integrity: sha512-4rGJHOyA7qatiMDg3vcETkc/TVBPU86/xZRTXff6o7a2neYLmj0EXUUAlhLVuiWAzTPHDPHOQxtk8EDrIF4ohg==}
     engines: {node: '>=14.18.0'}
     dependencies:
       ranges-merge: 9.0.15
-      tiny-invariant: 1.3.1
+      tiny-invariant: 1.3.3
     dev: true
 
   /ranges-merge@9.0.15:
@@ -2630,15 +2630,15 @@ packages:
       rfdc: 1.3.1
     dev: true
 
-  /string-strip-html@13.4.6:
-    resolution: {integrity: sha512-I1uUTS/BGQ/3jj+9WF6GENATSUPy9UruqVHdvAikOqlvFvlOAQL8M3qjoLu60Usp2x3yJpnAYtUTzDYiDdqXqg==}
+  /string-strip-html@13.4.7:
+    resolution: {integrity: sha512-eO/Fzr7S/B6xk9AcFNASVFR5MaqM+40obIewQIaR5Ngt9x1Ty1jaf6IqfeKOS6v+OqIEPBcWIFdYG5EV004Lwg==}
     engines: {node: '>=14.18.0'}
     dependencies:
       '@types/lodash-es': 4.17.12
       codsen-utils: 1.6.4
-      html-entities: 2.4.0
+      html-entities: 2.5.2
       lodash-es: 4.17.21
-      ranges-apply: 7.0.15
+      ranges-apply: 7.0.16
       ranges-push: 7.0.15
       string-left-right: 6.0.17
     dev: true
@@ -2784,6 +2784,10 @@ packages:
 
   /tiny-invariant@1.3.1:
     resolution: {integrity: sha512-AD5ih2NlSssTCwsMznbvwMZpJ1cbhkGd2uueNxzv2jDlEeZdU04JQfRnggJQ8DrcVBGjAsCKwFBbDlVNtEMlzw==}
+    dev: true
+
+  /tiny-invariant@1.3.3:
+    resolution: {integrity: sha512-+FbBPE1o9QAYvviau/qC5SE3caw21q3xkvWKBtja5vgqOWIHHJ3ioaq1VPfn/Szqctz2bU/oYeKd9/z5BL+PVg==}
     dev: true
 
   /to-regex-range@5.0.1:
