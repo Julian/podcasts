@@ -41,8 +41,8 @@ devDependencies:
     specifier: ^4.8.0
     version: 4.8.0
   string-strip-html:
-    specifier: ^13.4.7
-    version: 13.4.7
+    specifier: ^13.4.8
+    version: 13.4.8
   typescript:
     specifier: ^5.4.4
     version: 5.4.4
@@ -2630,8 +2630,8 @@ packages:
       rfdc: 1.3.1
     dev: true
 
-  /string-strip-html@13.4.7:
-    resolution: {integrity: sha512-eO/Fzr7S/B6xk9AcFNASVFR5MaqM+40obIewQIaR5Ngt9x1Ty1jaf6IqfeKOS6v+OqIEPBcWIFdYG5EV004Lwg==}
+  /string-strip-html@13.4.8:
+    resolution: {integrity: sha512-vlcRAtx5DN6zXGUx3EYGFg0/JOQWM65mqLgDaBHviQPP+ovUFzqZ30iQ+674JHWr9wNgnzFGxx9TGipPZMnZXg==}
     engines: {node: '>=14.18.0'}
     dependencies:
       '@types/lodash-es': 4.17.12
