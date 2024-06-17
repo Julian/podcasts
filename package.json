@@ -19,7 +19,7 @@
     "@types/react": "18.3.3",
     "eslint": "8.57.0",
     "eslint-config-next": "14.1.4",
-    "next-image-export-optimizer": "^1.12.3",
+    "next-image-export-optimizer": "^1.14.1",
     "node-fetch": "^3.3.2",
     "podcast-partytime": "^4.8.0",
     "string-strip-html": "^13.4.8",
