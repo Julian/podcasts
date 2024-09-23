@@ -34,8 +34,8 @@ importers:
         specifier: 14.2.13
         version: 14.2.13(eslint@8.57.0)(typescript@5.6.2)
       next-image-export-optimizer:
-        specifier: ^1.14.1
-        version: 1.14.1(next@14.2.8(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(react@18.3.1)
+        specifier: ^1.15.1
+        version: 1.15.1(next@14.2.8(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(react@18.3.1)
       node-fetch:
         specifier: ^3.3.2
         version: 3.3.2
@@ -526,10 +526,6 @@ packages:
   chalk@4.1.2:
     resolution: {integrity: sha512-oKnbhFyRIXpUuez8iBMmyEa4nbj4IOQyuhc/wy9kY7/WVPcwIO9VA668Pu8RkO7+0G76SLROeyw9CpQ061i4mA==}
     engines: {node: '>=10'}
-
-  cli-progress@3.12.0:
-    resolution: {integrity: sha512-tRkV3HJ1ASwm19THiiLIXLO7Im7wlTuKnvkYaTkyoAPefqjNg7W7DHKUlGRxy9vxDvbyCYQkQozvptuMkGCg8A==}
-    engines: {node: '>=4'}
 
   client-only@0.0.1:
     resolution: {integrity: sha512-IV3Ou0jSMzZrd3pZ48nLkT9DA7Ag1pnPzaiQhpW7c3RbcqqzvzzVu+L8gfqMp/8IM2MQtSiqaCxrrcfu8I8rMA==}
@@ -1158,8 +1154,8 @@ packages:
   natural-compare@1.4.0:
     resolution: {integrity: sha512-OWND8ei3VtNC9h7V60qff3SVobHr996CTwgxubgyQYEpg290h9J0buyECNNJexkFm5sOajh5G116RYA1c8ZMSw==}
 
-  next-image-export-optimizer@1.14.1:
-    resolution: {integrity: sha512-S1IlXANLlWomg5Szfbw65mkpM5wLW7BezoaiBRzhl98gaQfb4DSbHGL+Qy6MoQh39OpNgPMDzIwlWHmH+cUuCQ==}
+  next-image-export-optimizer@1.15.1:
+    resolution: {integrity: sha512-tx20p74EtW/VeIdoxPt9GtgagGJU3DVDXqBa0VgPYB2wiia6axiljiUeg9KoR1FPOduHxbjPPG3FtkKL0XN7Lg==}
     engines: {node: '>=16.0.0'}
     hasBin: true
     peerDependencies:
@@ -2156,10 +2152,6 @@ snapshots:
       ansi-styles: 4.3.0
       supports-color: 7.2.0
 
-  cli-progress@3.12.0:
-    dependencies:
-      string-width: 4.2.3
-
   client-only@0.0.1: {}
 
   codsen-utils@1.6.4:
@@ -2921,9 +2913,8 @@ snapshots:
 
   natural-compare@1.4.0: {}
 
-  next-image-export-optimizer@1.14.1(next@14.2.8(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(react@18.3.1):
+  next-image-export-optimizer@1.15.1(next@14.2.8(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(react@18.3.1):
     dependencies:
-      cli-progress: 3.12.0
       next: 14.2.8(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
       react: 18.3.1
       sharp: 0.33.2
