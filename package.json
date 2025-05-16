@@ -18,7 +18,7 @@
     "@types/node": "22.15.17",
     "@types/react": "19.1.2",
     "eslint": "9.26.0",
-    "eslint-config-next": "15.3.0",
+    "eslint-config-next": "15.3.2",
     "next-image-export-optimizer": "^1.18.0",
     "node-fetch": "^3.3.2",
     "podcast-partytime": "^4.9.1",
