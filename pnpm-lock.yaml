@@ -22,8 +22,8 @@ importers:
         specifier: ^2.2.5
         version: 2.2.5
       '@types/node':
-        specifier: 22.15.17
-        version: 22.15.17
+        specifier: 22.15.29
+        version: 22.15.29
       '@types/react':
         specifier: 19.1.2
         version: 19.1.2
@@ -35,7 +35,7 @@ importers:
         version: 15.3.0(eslint@9.26.0)(typescript@5.8.3)
       next-image-export-optimizer:
         specifier: ^1.18.0
-        version: 1.18.0(next@15.3.2(react-dom@19.1.0(react@19.1.0))(react@19.1.0))(react@19.1.0)
+        version: 1.19.0(next@15.3.2(react-dom@19.1.0(react@19.1.0))(react@19.1.0))(react@19.1.0)
       node-fetch:
         specifier: ^3.3.2
         version: 3.3.2
@@ -446,8 +446,8 @@ packages:
   '@types/lodash@4.17.16':
     resolution: {integrity: sha512-HX7Em5NYQAXKW+1T+FiuG27NGwzJfCX3s1GjOa7ujxZa52kjJLOr4FUxT+giF6Tgxv1e+/czV/iTtBw27WTU9g==}
 
-  '@types/node@22.15.17':
-    resolution: {integrity: sha512-wIX2aSZL5FE+MR0JlvF87BNVrtFWf6AE6rxSE9X7OwnVvoyCQjpzSRJ+M87se/4QCkCiebQAqrJ0y6fwIyi7nw==}
+  '@types/node@22.15.29':
+    resolution: {integrity: sha512-LNdjOkUDlU1RZb8e1kOIUpN1qQUlzGkEtbVNo53vbrwDg5om6oduhm4SiUaPW5ASTXhAiP0jInWG8Qx9fVlOeQ==}
 
   '@types/react@19.1.2':
     resolution: {integrity: sha512-oxLPMytKchWGbnQM9O7D67uPa9paTNxO7jVoNMXgkkErULBPhPARCfkKL9ytcIJJRGjbsVwW4ugJzyFFvm/Tiw==}
@@ -1437,8 +1437,8 @@ packages:
     resolution: {integrity: sha512-8Ofs/AUQh8MaEcrlq5xOX0CQ9ypTF5dl78mjlMNfOK08fzpgTHQRQPBxcPlEtIw0yRpws+Zo/3r+5WRby7u3Gg==}
     engines: {node: '>= 0.6'}
 
-  next-image-export-optimizer@1.18.0:
-    resolution: {integrity: sha512-8yJO2QzBYMx2E1Lr67gWX3uqWbLZfBa7SwPjPjko4ki81SsJjsNeV7MID7VCcQ99aJW4mLgrWWRHCFNXF7gzlA==}
+  next-image-export-optimizer@1.19.0:
+    resolution: {integrity: sha512-DHecMn1FE3xPyABXf9CUelJwzFrHgGt2RQIQLIB9kN1wUfm+6lEjZD4beku8T9NXG2heWHku3AU+ohZV+tGYFw==}
     engines: {node: '>=16.0.0'}
     hasBin: true
     peerDependencies:
@@ -2369,7 +2369,7 @@ snapshots:
 
   '@types/lodash@4.17.16': {}
 
-  '@types/node@22.15.17':
+  '@types/node@22.15.29':
     dependencies:
       undici-types: 6.21.0
 
@@ -3554,7 +3554,7 @@ snapshots:
 
   negotiator@1.0.0: {}
 
-  next-image-export-optimizer@1.18.0(next@15.3.2(react-dom@19.1.0(react@19.1.0))(react@19.1.0))(react@19.1.0):
+  next-image-export-optimizer@1.19.0(next@15.3.2(react-dom@19.1.0(react@19.1.0))(react@19.1.0))(react@19.1.0):
     dependencies:
       next: 15.3.2(react-dom@19.1.0(react@19.1.0))(react@19.1.0)
       react: 19.1.0
