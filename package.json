@@ -10,13 +10,13 @@
   },
   "dependencies": {
     "next": "15.4.6",
-    "react": "19.1.0",
+    "react": "19.1.1",
     "react-dom": "19.1.0"
   },
   "devDependencies": {
     "@iarna/toml": "^2.2.5",
     "@types/node": "24.2.1",
-    "@types/react": "19.1.8",
+    "@types/react": "19.1.9",
     "eslint": "9.33.0",
     "eslint-config-next": "15.4.6",
     "next-image-export-optimizer": "^1.18.0",
