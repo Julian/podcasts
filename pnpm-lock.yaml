@@ -43,8 +43,8 @@ importers:
         specifier: ^5.0.0
         version: 5.0.0
       string-strip-html:
-        specifier: ^13.5.0
-        version: 13.5.0
+        specifier: ^13.5.3
+        version: 13.5.3
       typescript:
         specifier: ^5.9.3
         version: 5.9.3
@@ -431,8 +431,8 @@ packages:
   '@types/lodash-es@4.17.12':
     resolution: {integrity: sha512-0NgftHUcV4v34VhXm8QBSftKVXtbkBG3ViCjs6+eJ5a6y6Mi/jiFGPc1sC7QK+9BFhWrURE3EOggmWaSxL9OzQ==}
 
-  '@types/lodash@4.17.20':
-    resolution: {integrity: sha512-H3MHACvFUEiujabxhaI/ImO6gUrd8oOurg7LQtS7mbwIXA/cUqWrvBsaeJ23aZEPk1TAYkurjfMbSELfoCXlGA==}
+  '@types/lodash@4.17.23':
+    resolution: {integrity: sha512-RDvF6wTulMPjrNdCoYRC8gNR880JNGT8uB+REUpC2Ns4pRqQJhGz90wh7rgdXDPpCczF3VGktDuFGVnz8zP7HA==}
 
   '@types/node@25.0.6':
     resolution: {integrity: sha512-NNu0sjyNxpoiW3YuVFfNz7mxSQ+S4X2G28uqg2s+CzoqoQjLPsWSbsFFyztIAqt2vb8kfEAsJNepMGPTxFDx3Q==}
@@ -721,8 +721,8 @@ packages:
   client-only@0.0.1:
     resolution: {integrity: sha512-IV3Ou0jSMzZrd3pZ48nLkT9DA7Ag1pnPzaiQhpW7c3RbcqqzvzzVu+L8gfqMp/8IM2MQtSiqaCxrrcfu8I8rMA==}
 
-  codsen-utils@1.7.0:
-    resolution: {integrity: sha512-J+fnmscIPihyeZGsMsy0wWHXDiA8+51KySw5uGqhKI+iwNSzOwe+sjU4J/BrQajMEBO6BPVx7qDq0cQHnUbrOw==}
+  codsen-utils@1.7.3:
+    resolution: {integrity: sha512-YIFQQ1n2NSgwoB3sCe7RpkZzsrPxTMek6jc7wC9fXOm1wwfWAKja9gLOMEjlXOUd3LKV3o6Jci7n9BoHs5Z8Sg==}
     engines: {node: '>=14.18.0'}
 
   color-convert@2.0.1:
@@ -1325,8 +1325,8 @@ packages:
     resolution: {integrity: sha512-iPZK6eYjbxRu3uB4/WZ3EsEIMJFMqAoopl3R+zuq0UjcAm/MO6KCweDgPfP3elTztoKP3KtnVHxTn2NHBSDVUw==}
     engines: {node: '>=10'}
 
-  lodash-es@4.17.21:
-    resolution: {integrity: sha512-mKnC+QJ9pWVzv+C4/U3rRsHapFfHvQFoFB92e52xeyGMcX6/OlIl78je1u8vePzYZSkkogMPJ2yjxxsb89cxyw==}
+  lodash-es@4.17.22:
+    resolution: {integrity: sha512-XEawp1t0gxSi9x01glktRZ5HDy0HXqrM0x5pXQM98EaI0NxO6jVM7omDOxsuEo5UIASAnm2bRp1Jt/e0a2XU8Q==}
 
   lodash.merge@4.6.2:
     resolution: {integrity: sha512-0KpjqXRVvrYyCsX1swR/XTK0va6VQkQM6MNo7PqW77ByjAhoARA8EfrP1N4+KlKj8YS0ZUCtRT/YUuhyYDujIQ==}
@@ -1550,20 +1550,20 @@ packages:
   ramda@0.27.2:
     resolution: {integrity: sha512-SbiLPU40JuJniHexQSAgad32hfwd+DRUdwF2PlVuI5RZD0/vahUco7R8vD86J/tcEKKF9vZrUVwgtmGCqlCKyA==}
 
-  ranges-apply@7.1.0:
-    resolution: {integrity: sha512-rtAdRodLlwASQlECefgqYPfyCIRKSE4CJjqIltn4UXwqNvhysR1a2db+U49nU8+5N1L6R71LlVPReCRjf3Henw==}
+  ranges-apply@7.1.3:
+    resolution: {integrity: sha512-+dpc801TK6qUoMKU9dnwD0wH6XORtZicXLVm4p43jEp+te7Q+Tw0Pa4cHX9Mj1W0zshVYh1S4RIYI38ZUPglqQ==}
     engines: {node: '>=14.18.0'}
 
-  ranges-merge@9.1.0:
-    resolution: {integrity: sha512-6jJKvNfscpCga3oEMBlZKbPz/jLwOTRdnpiyaHm/qtl57sWI99ld9qupII3YscbkNcSbt1sfePYC837M2IYf0Q==}
+  ranges-merge@9.1.3:
+    resolution: {integrity: sha512-dPS11e7AHD1tnuzrboYa+n07JqbHccMqt94C3cSlJ9tTC/RN6P+iGePhTyvCPpoNDWVOEVX4JGyGH0oHjwas0g==}
     engines: {node: '>=14.18.0'}
 
-  ranges-push@7.1.0:
-    resolution: {integrity: sha512-5PiLj4BHiG56CTsLGtvdaukgTRTFrzLpET2eAEx8dsJzigOh8phtzjE7zSlYhaUcnVGMmAqWkfTjcWIQhqjpJg==}
+  ranges-push@7.1.3:
+    resolution: {integrity: sha512-3laGXNa4CW1vt6e2RqC35xRmxXpcWwLNpepTQJ+dkftc/7rH+d9pQ/UQgV6/peN6DsDcpJuu+PjLjWprz2UjDA==}
     engines: {node: '>=14.18.0'}
 
-  ranges-sort@6.1.0:
-    resolution: {integrity: sha512-esvEBNDhydnuojWhXkiZnHv4infMKaeD4NsCqce++uYxnRIAXIS6R3iAMNVLqxaPZn+4+h5dhEPXCuBgpExakg==}
+  ranges-sort@6.1.3:
+    resolution: {integrity: sha512-JsTMmurWEOPYowp1OwUbjcfXyDfaTB+AWoiZwjV+3qOv0uUI7A1CExGwyFwfXEO5HYThOTDC96qC9a6BYqFbyg==}
     engines: {node: '>=14.18.0'}
 
   react-dom@19.2.3:
@@ -1712,20 +1712,20 @@ packages:
   stream-shift@1.0.3:
     resolution: {integrity: sha512-76ORR0DO1o1hlKwTbi/DM3EXWGf3ZJYO8cXX5RJwnul2DEg2oyoZyjLNoQM8WsvZiFKCRfC1O0J7iCvie3RZmQ==}
 
-  string-collapse-leading-whitespace@7.1.0:
-    resolution: {integrity: sha512-VDQaY0zGeD+S36xwreMWw64C+fl31FoS4txHScuUoUw6B760P63Q00FVdcF7SU1qXD5FKG1ptMWrtV65l+kvcw==}
+  string-collapse-leading-whitespace@7.1.3:
+    resolution: {integrity: sha512-bCgNODedM9daANnnNPOHuz++qUeVHgsPMghNPznbLLnBviNyuKt9vzHIa6OGTSpWzJUO4Rlffu4+RD47pSTq3g==}
     engines: {node: '>=14.18.0'}
 
-  string-left-right@6.1.0:
-    resolution: {integrity: sha512-Y+QrkHzY7S8/UuArnhJkStKdHfQI4dJv9K3qWDJ2W0WVQXFkG5Zh+YbxMVssGdk84FLwhg5yxg9/y9AORaqbRA==}
+  string-left-right@6.1.3:
+    resolution: {integrity: sha512-XPqLphMTTbPMRs4DPX0flLtVFsDWZ+Og3tyku1FiiE2b/+SUHmiO1KRg7NBlb5e9UrojE5F3ryXORL0VYhwwgA==}
     engines: {node: '>=14.18.0'}
 
-  string-strip-html@13.5.0:
-    resolution: {integrity: sha512-U2ZnVRhqLuCvczaZEyk7yz4Mu91VfNHGOKtulm2Y5m8I69mp2Epr7NeoDaBxrscAQAX/gNuUQEikzaPXBWH/5g==}
+  string-strip-html@13.5.3:
+    resolution: {integrity: sha512-MjrGYjcyOfY8VLXpbEJRtiHLFkWRRIdRt7hcBxGUo2GGM/YSyIfiRQ3q0y2pb+RwYHUfVbw3euuyLzxqyxhyIA==}
     engines: {node: '>=14.18.0'}
 
-  string-trim-spaces-only@5.1.0:
-    resolution: {integrity: sha512-632znq4SGCNM7Vw7QITbx05oej+Xly2s7OtDxN9jvNbOoWcQuA5fq14CAS5TlpiiB04LDETzJj9fk851PnWLgg==}
+  string-trim-spaces-only@5.1.3:
+    resolution: {integrity: sha512-Flb782YX49j4GkLv/M2rqJik/lUq+OJnT/q7kQ6byZtgknAo1wb1XFBN3b+7UMW5I6VB1QdNAoh9oiUa9izBpA==}
     engines: {node: '>=14.18.0'}
 
   string.prototype.includes@2.0.1:
@@ -2285,9 +2285,9 @@ snapshots:
 
   '@types/lodash-es@4.17.12':
     dependencies:
-      '@types/lodash': 4.17.20
+      '@types/lodash': 4.17.23
 
-  '@types/lodash@4.17.20': {}
+  '@types/lodash@4.17.23': {}
 
   '@types/node@25.0.6':
     dependencies:
@@ -2602,7 +2602,7 @@ snapshots:
 
   client-only@0.0.1: {}
 
-  codsen-utils@1.7.0:
+  codsen-utils@1.7.3:
     dependencies:
       rfdc: 1.4.1
 
@@ -3350,7 +3350,7 @@ snapshots:
     dependencies:
       p-locate: 5.0.0
 
-  lodash-es@4.17.21: {}
+  lodash-es@4.17.22: {}
 
   lodash.merge@4.6.2: {}
 
@@ -3580,24 +3580,24 @@ snapshots:
 
   ramda@0.27.2: {}
 
-  ranges-apply@7.1.0:
+  ranges-apply@7.1.3:
     dependencies:
-      ranges-merge: 9.1.0
+      ranges-merge: 9.1.3
       tiny-invariant: 1.3.3
 
-  ranges-merge@9.1.0:
+  ranges-merge@9.1.3:
     dependencies:
-      ranges-push: 7.1.0
-      ranges-sort: 6.1.0
+      ranges-push: 7.1.3
+      ranges-sort: 6.1.3
 
-  ranges-push@7.1.0:
+  ranges-push@7.1.3:
     dependencies:
-      codsen-utils: 1.7.0
-      ranges-sort: 6.1.0
-      string-collapse-leading-whitespace: 7.1.0
-      string-trim-spaces-only: 5.1.0
+      codsen-utils: 1.7.3
+      ranges-sort: 6.1.3
+      string-collapse-leading-whitespace: 7.1.3
+      string-trim-spaces-only: 5.1.3
 
-  ranges-sort@6.1.0: {}
+  ranges-sort@6.1.3: {}
 
   react-dom@19.2.3(react@19.2.3):
     dependencies:
@@ -3793,24 +3793,24 @@ snapshots:
 
   stream-shift@1.0.3: {}
 
-  string-collapse-leading-whitespace@7.1.0: {}
+  string-collapse-leading-whitespace@7.1.3: {}
 
-  string-left-right@6.1.0:
+  string-left-right@6.1.3:
     dependencies:
-      codsen-utils: 1.7.0
+      codsen-utils: 1.7.3
       rfdc: 1.4.1
 
-  string-strip-html@13.5.0:
+  string-strip-html@13.5.3:
     dependencies:
       '@types/lodash-es': 4.17.12
-      codsen-utils: 1.7.0
+      codsen-utils: 1.7.3
       html-entities: 2.6.0
-      lodash-es: 4.17.21
-      ranges-apply: 7.1.0
-      ranges-push: 7.1.0
-      string-left-right: 6.1.0
+      lodash-es: 4.17.22
+      ranges-apply: 7.1.3
+      ranges-push: 7.1.3
+      string-left-right: 6.1.3
 
-  string-trim-spaces-only@5.1.0: {}
+  string-trim-spaces-only@5.1.3: {}
 
   string.prototype.includes@2.0.1:
     dependencies:
